@@ -1,35 +1,35 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=MrCycronee&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Ein%20Kosmischer%20Entwickler&descAlignY=55&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=MrCycronee&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=A%20Cosmic%20Developer&descAlignY=55&descSize=20"/>
 </p>
 
-<h1 align="center">🚀 Hallo, ich bin MrCycronee</h1>
-<h3 align="center">Digitaler Alchemist • Code-Poet • Kybernetischer Träumer</h3>
+<h1 align="center">🚀 Hi, I'm MrCycronee</h1>
+<h3 align="center">Digital Alchemist • Code Poet • Cybernetic Dreamer</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Verwandle+Kaffee+in+Code;Erforsche+den+digitalen+Kosmos;Quantenbits+Enthusiast;Open-Source+Befürworter" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Turning+Coffee+Into+Code;Exploring+The+Digital+Cosmos;Quantum+Bits+Enthusiast;Open+Source+Advocate" alt="Typing SVG" /></a>
 </p>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=MrCycronee&label=Interdimensionale+Besucher&color=00d9ff&style=for-the-badge" alt="MrCycronee" /> 
-  <a href="https://twitter.com/deinhandle" target="blank"><img src="https://img.shields.io/twitter/follow/deinhandle?logo=twitter&style=for-the-badge&color=1DA1F2" alt="deinhandle" /></a>
+  <img src="https://komarev.com/ghpvc/?username=MrCycronee&label=Interdimensional+Visitors&color=00d9ff&style=for-the-badge" alt="MrCycronee" /> 
+  <a href="https://twitter.com/yourhandle" target="blank"><img src="https://img.shields.io/twitter/follow/yourhandle?logo=twitter&style=for-the-badge&color=1DA1F2" alt="yourhandle" /></a>
 </p>
 
 ---
 
-### 🌌 Kosmische Reise
-- 🔭 Aktuell verzerre ich die Raumzeit mit **Next-Gen KI-Architekturen**
-- 🌱 Lerne **Quanten-Machine-Learning & Neuronale Zauberei**
-- 👯 Suche Mitstreiter für **Open-Source-Singularitätsprojekte**
-- 🤔 Brauche Hilfe bei **Reverse-Engineering von Alien-Technologie**
-- 💬 Frag mich über **Python-Zauber oder JavaScript-Beschwörungen**
-- 📫 Erreichbar via **quantum@verschränkung.protokoll**
-- ⚡ Fun Fact: **Mein Code kompiliert in alternativen Realitäten**
+### 🌌 Cosmic Journey
+- 🔭 Currently warping spacetime with **Next-Gen AI Architectures**
+- 🌱 Mastering **Quantum Machine Learning & Neural Sorcery**
+- 👯 Seeking collaborators for **Open-Source Singularity Projects**
+- 🤔 Need assistance with **Reverse-Engineering Alien Tech**
+- 💬 Ask me about **Pythonic Spells or JavaScript Incantations**
+- 📫 Reach me via **quantum@entanglement.protocol**
+- ⚡ Fun fact: **My code compiles in alternate realities**
 
 ---
 
-### 🛠️ Technik-Arsenal
+### 🛠️ Tech Arsenal
 
-#### 🧪 Sprachen
+#### 🧪 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -47,51 +47,51 @@
 
 ---
 
-### 📊 GitHub Analytik
+### 📊 GitHub Analytics
 
 <div align="center">
   
-[![MrCycronees GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrCycronee&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true&custom_title=Digitaler+Fußabdruck)](https://github.com/anuraghazra/github-readme-stats)
+[![MrCycronee's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrCycronee&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true&custom_title=Digital+Footprint)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=MrCycronee&layout=compact&theme=radical&hide_border=true&langs_count=6&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrCycronee&layout=compact&theme=radical&hide_border=true&langs_count=6&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Serie](https://streak-stats.demolab.com?user=MrCycronee&theme=radical&hide_border=true&date_format=j.%20M%20%5BY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MrCycronee&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-### 🌠 Beitragsmatrix
-[![Aktivitätsgraph](https://github-readme-activity-graph.vercel.app/graph?username=MrCycronee&theme=react-dark&area=true&hide_border=true&custom_title=Code+Echos+durch+die+Zeit)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 🌠 Contribution Matrix
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MrCycronee&theme=react-dark&area=true&hide_border=true&custom_title=Code%20Echoes%20Through%20Time)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-### 🎶 Kosmische Klangwelten
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=deinusername&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=deinusername&redirect=true)
+### 🎶 Cosmic Soundwaves
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=yourusername&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yourusername&redirect=true)
 
 ---
 
-### 🚀 Kontakt
+### 🚀 Let's Connect
 <p align="center">
-  <a href="https://twitter.com/deinhandle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deinhandle" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/deinprofil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deinprofil" height="30" width="40" /></a>
-  <a href="https://discord.gg/deineinladung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="deineinladung" height="30" width="40" /></a>
+  <a href="https://twitter.com/yourhandle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yourhandle" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yourprofile" height="30" width="40" /></a>
+  <a href="https://discord.gg/yourinvite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yourinvite" height="30" width="40" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/deinusername" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Kauf mir einen Kaffee" height="60" style="filter: drop-shadow(0 0 8px #00ffff);">
+  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" style="filter: drop-shadow(0 0 8px #00ffff);">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MrCycronee/MrCycronee/output/snake.svg" alt="Schlangen-Animation" />
+  <img src="https://raw.githubusercontent.com/MrCycronee/MrCycronee/output/snake.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/MrCycronee/MrCycronee/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Beitrags-Gitter Schlangen-Animation" />
+  <img src="https://github.com/MrCycronee/MrCycronee/blob/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation" />
 </p>
 
 <p align="center">
