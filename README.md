@@ -3,9 +3,9 @@
 </p>
 
 <div align="center">
-  <a href="https://discord.com/users/DEINE_DISCORD_ID" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://discord.com/users/571389054751604737" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   
-  ) entfernst und DEIN_PROFIL ersetzt -->
+  
   </div>
 
 <div align="center">
