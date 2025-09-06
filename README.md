@@ -1,6 +1,6 @@
 <!-- Logo -->
 <p align="center">
-  <img src="assets/Logo-mr.png" alt="MrCycronee Logo" width="400"/>
+  <img src="https://raw.githubusercontent.com/MrCycronee/images/main/Logo-mr.png" alt="MrCycronee Logo" width="400"/>
 </p>
 
 <!-- Intro -->
