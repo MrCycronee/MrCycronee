@@ -26,7 +26,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,git,js,ts,react,nextjs,tailwind,prisma,mongodb,trpc,heroku,linux,ps,ai" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,git,js,ts,react,nextjs,tailwind,prisma,mongodb,heroku,linux,ps,ai" />
   </a>
 </p>
 
@@ -38,17 +38,8 @@
   <a href="https://discord.com/users/571389054751604737" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://www.instagram.com/DEIN_PROFIL/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://twitter.com/DEIN_PROFIL" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
   <a href="https://www.youtube.com/c/DEIN_KANAL" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://www.twitch.tv/DEIN_PROFIL" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
   </a>
 </p>
 
