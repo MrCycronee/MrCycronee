@@ -17,9 +17,9 @@
 ### 🌌 About Me
 
 <p>
-  Digital alchemist transforming coffee into code and ideas into digital experiences. 
+  **Digital alchemist transforming coffee into code and ideas into digital experiences. 
   I wander through the realms of programming languages, from the low-level magic of C++ 
-  to the dynamic worlds of JavaScript and Python.
+  to the dynamic worlds of JavaScript and Python.**
 
   🌙 By night: Crafting Discord bots that bring communities together
 
@@ -27,8 +27,8 @@
   
   🔭 Always: Experimenting with new technologies and frameworks
 
-  Believer in open-source, community-driven development, and the power of code to 
-  create positive change in digital spaces.
+  **Believer in open-source, community-driven development, and the power of code to 
+  create positive change in digital spaces.**
 </p>
 
 ---
