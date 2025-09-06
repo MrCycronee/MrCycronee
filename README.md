@@ -1,8 +1,3 @@
-<!-- Logo -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MrCycronee/images/main/Logo-mr.png" alt="MrCycronee Logo" width="400"/>
-</p>
-
 <!-- Intro -->
 <div align="center">
   <h1>🚀 Hi, I'm MrCycronee 🚀</h1>
@@ -11,6 +6,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Turning+Coffee+Into+Code;Quantum+Bits+Enthusiast;Open+Source+Advocate" alt="Typing SVG" />
   </a>
 </div>
+
+<!-- Logo -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MrCycronee/images/main/Logo-mr.png" alt="MrCycronee Logo" width="400"/>
+</p>
 
 <!-- Besucherzähler -->
 <p align="center">
