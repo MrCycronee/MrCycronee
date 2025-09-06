@@ -4,7 +4,8 @@
 
 <div align="center">
   <h1>🚀 Hi, I'm MrCycronee 🚀</h1>
-  <h3>Digital Alchemist • Code Poet • Cybernetic Dreamer</h3>
+  <h3>Digital Alchemist • Code Poet • Cybernetic Dreamer
+Lua Bot Artisan • Discord.js Wizard • Cloud Sorcerer</h3>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Turning+Coffee+Into+Code;Quantum+Bits+Enthusiast;Open+Source+Advocate" alt="Typing SVG" /></a>
 </div>
 
