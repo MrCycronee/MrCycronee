@@ -9,7 +9,7 @@
 
 <!-- Logo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MrCycronee/images/main/Logo-mr.png" alt="MrCycronee Logo" width="400"/>
+  <img src="https://github.com/MrCycronee/images/blob/main/logo.png" alt="MrCycronee Logo" width="400"/>
 </p>
 
 <!-- Besucherzähler -->
