@@ -1,13 +1,18 @@
+<!-- Logo -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=MrCycronee&fontSize=90&fontAlignY=38&animation=twinkling&fontColor=ffffff"/>
+  <img src="assets/Logo-mr.png" alt="MrCycronee Logo" width="400"/>
 </p>
 
+<!-- Intro -->
 <div align="center">
   <h1>🚀 Hi, I'm MrCycronee 🚀</h1>
-  <h3>Digital Alchemist • Code Poet • Cybernetic Dreamer Lua Bot Artisan • Discord.js Wizard • Cloud Sorcerer</h3>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Turning+Coffee+Into+Code;Quantum+Bits+Enthusiast;Open+Source+Advocate" alt="Typing SVG" /></a>
+  <h3>Digital Alchemist • Code Poet • Cybernetic Dreamer • Lua Bot Artisan • Discord.js Wizard • Cloud Sorcerer</h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Turning+Coffee+Into+Code;Quantum+Bits+Enthusiast;Open+Source+Advocate" alt="Typing SVG" />
+  </a>
 </div>
 
+<!-- Besucherzähler -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MrCycronee&label=Interdimensional+Visitors&color=00d9ff&style=for-the-badge" alt="MrCycronee" /> 
 </p>
@@ -21,11 +26,11 @@
   I wander through the realms of programming languages, from the low-level magic of C++ 
   to the dynamic worlds of JavaScript and Python.
 
-  🌙 By night: Crafting Discord bots that bring communities together
+  🌙 By night: Crafting Discord bots that bring communities together  
 
-  ☀️ By day: Exploring cloud infrastructures and backend architectures
+  ☀️ By day: Exploring cloud infrastructures and backend architectures  
   
-  🔭 Always: Experimenting with new technologies and frameworks
+  🔭 Always: Experimenting with new technologies and frameworks  
 
   **Believer in open-source, community-driven development, and the power of code to 
   create positive change in digital spaces.**
