@@ -22,7 +22,9 @@
   to the dynamic worlds of JavaScript and Python.
 
   🌙 By night: Crafting Discord bots that bring communities together
+
   ☀️ By day: Exploring cloud infrastructures and backend architectures
+  
   🔭 Always: Experimenting with new technologies and frameworks
 
   Believer in open-source, community-driven development, and the power of code to 
