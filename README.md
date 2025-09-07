@@ -1,6 +1,6 @@
 <!-- Intro -->
 <div align="center">
-  <h1 style="color: #a855f7;">✨ MrCycronee ✨</h1>
+  <h1 style="color: #a855f7;">✨ !MrCycrone ✨</h1>
   <h3 style="color: #c084fc;">Digital Alchemist • Code Poet • Cybernetic Dreamer</h3>
   <p>
     <code style="background: #7e22ce; color: white; padding: 4px 8px; border-radius: 5px;">🤖 Lua Bot Crafting</code> • 
