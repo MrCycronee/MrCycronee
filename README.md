@@ -3,9 +3,9 @@
   <h1>✨ MrCycronee ✨</h1>
   <h3>Digital Alchemist • Code Poet • Cybernetic Dreamer</h3>
   <p>
-    <code>Lua Bot Crafting</code> • 
-    <code>Discord.js Wizardry</code> • 
-    <code>Cloud Sorcery</code>
+    <code> 🤖 Lua Bot Crafting</code> • 
+    <code> 🎯 Discord.js Wizardry</code> • 
+    <code> ☁️ Cloud Sorcery</code>
   </p>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Turning+Coffee+Into+Code;Quantum+Bits+Enthusiast;Open+Source+Advocate" alt="Typing SVG" />
