@@ -1,14 +1,14 @@
 <!-- Intro -->
 <div align="center">
-  <h1>✨ MrCycronee ✨</h1>
-  <h3>Digital Alchemist • Code Poet • Cybernetic Dreamer</h3>
+  <h1 style="color: #a855f7;">✨ MrCycronee ✨</h1>
+  <h3 style="color: #c084fc;">Digital Alchemist • Code Poet • Cybernetic Dreamer</h3>
   <p>
-    <code> 🤖 Lua Bot Crafting</code> • 
-    <code> 🎯 Discord.js Wizardry</code> • 
-    <code> ☁️ Cloud Sorcery</code>
+    <code style="background: #7e22ce; color: white; padding: 4px 8px; border-radius: 5px;">🤖 Lua Bot Crafting</code> • 
+    <code style="background: #8b5cf6; color: white; padding: 4px 8px; border-radius: 5px;">🎯 Discord.js Wizardry</code> • 
+    <code style="background: #a855f7; color: white; padding: 4px 8px; border-radius: 5px;">☁️ Cloud Sorcery</code>
   </p>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Turning+Coffee+Into+Code;Quantum+Bits+Enthusiast;Open+Source+Advocate" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=a855f7&center=true&vCenter=true&width=435&lines=Turning+Coffee+Into+Code;Quantum+Bits+Enthusiast;Open+Source+Advocate" alt="Typing SVG" />
   </a>
 </div>
 
