@@ -19,7 +19,7 @@
 
 <!-- Besucherzähler -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrCycronee&label=Interdimensional+Visitors&color=00d9ff&style=for-the-badge" alt="MrCycronee" /> 
+  <img src="https://komarev.com/ghpvc/?username=MrCycronee&label=Interdimensional+Visitors&color=7e22ce&style=for-the-badge&labelColor=000000" alt="MrCycronee" /> 
 </p>
 
 ---
@@ -95,6 +95,6 @@
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" style="filter: drop-shadow(0 0 12px #7e22ce) hue-rotate(270deg) brightness(0.85) saturate(1.3);">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" style="filter: drop-shadow(0 0 10px #7e22ce) hue-rotate(280deg) saturate(1.2);">
   </a>
 </p>
