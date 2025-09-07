@@ -89,7 +89,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrCycronee&theme=react-dark&area=true&hide_border=true&custom_title=Contribution%20Activity&title_color=7e22ce&color=7e22ce&point=7e22ce&area_color=7e22ce&bg_color=00000000" alt="Contribution Graph"/>
 </p>
 
----
+--
 
 ### ☕ Support My Work
 
