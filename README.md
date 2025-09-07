@@ -72,10 +72,10 @@
   <table border="0" cellpadding="10">
     <tr valign="top">
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=MrCycronee&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true&custom_title=GitHub%20Stats&title_color=7e22ce&icon_color=7e22ce&text_color=ffffff&bg_color=00000000" alt="MrCycronee's GitHub Stats"/>
+        <img src="https://streak-stats.demolab.com?user=MrCycronee&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&ring=7e22ce&fire=7e22ce&currStreakNum=7e22ce&sideNums=7e22ce&currStreakLabel=7e22ce&sideLabels=7e22ce&dates=ffffff" alt="GitHub Streak"/>
       </td>
       <td width="50%">
-        <img src="https://streak-stats.demolab.com?user=MrCycronee&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&ring=7e22ce&fire=7e22ce&currStreakNum=7e22ce&sideNums=7e22ce&currStreakLabel=7e22ce&sideLabels=7e22ce&dates=ffffff" alt="GitHub Streak"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=MrCycronee&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true&custom_title=GitHub%20Stats&title_color=7e22ce&icon_color=7e22ce&text_color=ffffff&bg_color=00000000" alt="MrCycronee's GitHub Stats"/>
       </td>
     </tr>
   </table>
@@ -95,6 +95,6 @@
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" style="filter: drop-shadow(0 0 8px #00ffff);">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" style="filter: drop-shadow(0 0 12px #7e22ce) hue-rotate(270deg) brightness(0.85) saturate(1.3);">
   </a>
 </p>
