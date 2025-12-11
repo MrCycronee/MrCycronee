@@ -11,11 +11,11 @@
 <br>
 
 <p style="font-size: 1.1rem;">
-  <img src="https://img.shields.io/badge/FiveM%20Development-Lua-FFFFFF?style=for-the-badge&logo=lua&logoColor=000000&labelColor=FFFFFF" height="32" />
+  <img src="https://img.shields.io/badge/FIVEM%20DEVELOPMENT%20LUA-FFFFFF?style=for-the-badge&logo=lua&logoColor=FFFFFF&labelColor=000000" height="32" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Discord.js-Bots-FFFFFF?style=for-the-badge&logo=discord&logoColor=000000&labelColor=FFFFFF" height="32" />
+  <img src="https://img.shields.io/badge/DISCORD.JS%20BOTS-FFFFFF?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=000000" height="32" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Backend-Architecture-FFFFFF?style=for-the-badge&logo=serverless&logoColor=000000&labelColor=FFFFFF" height="32" />
+  <img src="https://img.shields.io/badge/BACKEND%20ARCHITECTURE-FFFFFF?style=for-the-badge&logo=serverless&logoColor=FFFFFF&labelColor=000000" height="32" />
 </p>
 
 <br>
@@ -27,7 +27,7 @@
 <br><br>
 
 <p style="font-size: 1.2rem;">
-  <img src="https://komarev.com/ghpvc/?username=MrCycronee&label=Profile+Views&color=FFFFFF&style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000" height="32" />
+  <img src="https://komarev.com/ghpvc/?username=MrCycronee&label=PROFILE%20VIEWS&color=FFFFFF&style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000" height="32" />
 </p>
 
 </div>
@@ -69,7 +69,7 @@ I focus on creating scalable, efficient and optimized scripts for the best rolep
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,cloudflare,devto,discord,bots,discordjs,java,js,lua,py,vscode,github,git,nodejs,mysql,redis,nginx,linux,azure,aws&perline=11&theme=light" width="90%" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,cloudflare,devto,discord,bots,discordjs,java,js,lua,py,vscode,github,git,nodejs,mysql,redis,nginx,linux,azure,aws&perline=11&theme=dark" width="90%" />
   </a>
 </p>
 
@@ -85,7 +85,7 @@ I focus on creating scalable, efficient and optimized scripts for the best rolep
 
 <p align="center">
   <a href="https://discord.gg/DNEfAmV9AS" target="_blank">
-    <img src="https://img.shields.io/badge/Join_My_Discord_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA" height="60" width="400" />
+    <img src="https://img.shields.io/badge/JOIN%20MY%20DISCORD%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=000000" height="60" width="400" />
   </a>
 </p>
 
