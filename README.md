@@ -128,21 +128,7 @@ I'm a **dedicated software developer** specializing in **FiveM platform and Lua 
   </a>
 </div>
 
-<br><br>
-
-<!-- Social Media Links -->
-<div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; font-size: 1.2rem;">
-  <a href="https://github.com/MrCycronee" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-GitHub-2C2D2E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40" />
-  </a>
-  <a href="mailto:contact@example.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Email-6C757D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40" />
-  </a>
-</div>
-
-</div>
-
-<br>
+<br><
 
 ---
 
