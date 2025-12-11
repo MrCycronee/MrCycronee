@@ -40,7 +40,7 @@ Ich bin ein **dedizierter Softwareentwickler**, spezialisiert auf die **FiveM-Pl
 
 ## 🛠️ Tech Stack & Werkzeuge
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,cloudflare,devto,discord,bots,discordjs,java,js,lua,py,vscode&theme=light" alt="Alle Programmiersprachen und Tools" />
   </a>
