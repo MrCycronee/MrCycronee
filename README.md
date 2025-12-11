@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MrCycronee/MrCycronee/main/images/logo.png" width="450" alt="!MrCycrone Logo" />
+<img src="https://github.com/MrCycronee/images/blob/main/new_logo.png" width="450" alt="!MrCycrone Logo" />
 
 <br><br>
 
