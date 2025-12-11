@@ -5,15 +5,19 @@
 ### I'm !MrCycrone – FiveM Developer and Cloud Enthusiast
 
 <p>
-  <img src="https://img.shields.io/badge/FiveM%20Development-Lua-EDEDED?style=flat-square&logo=lua&logoColor=black" alt="FiveM Development" />
-  <img src="https://img.shields.io/badge/Discord.js-Bots-D1D5DB?style=flat-square&logo=discord&logoColor=black" alt="Discord.js" />
-  <img src="https://img.shields.io/badge/Backend-Architecture-9CA3AF?style=flat-square&logo=serverless&logoColor=black" alt="Backend Architecture" />
-  <img src="https://komarev.com/ghpvc/?username=MrCycronee&label=Interdimensional+Visitors&color=D1D5DB&style=flat-square&labelColor=1a1a1a" alt="Besucherzähler" /> 
+  <img src="https://img.shields.io/badge/FiveM%20Development-Lua-FFFFFF?style=flat-square&logo=lua&logoColor=black" alt="FiveM Development" />
+  <img src="https://img.shields.io/badge/Discord.js-Bots-B3B3B3?style=flat-square&logo=discord&logoColor=black" alt="Discord.js" />
+  <img src="https://img.shields.io/badge/Backend-Architecture-7F8C8D?style=flat-square&logo=serverless&logoColor=black" alt="Backend Architecture" />
+  <img src="https://profile-counter.glitch.me/{MrCycronee}/count.svg" alt="Visitors Count">
 </p>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EDEDED&center=true&vCenter=true&width=435&lines=Turning+FiveM+Ideas+Into+Code;Lua+Scripting+Expert;Dedicated+Roleplay+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Turning+FiveM+Ideas+Into+Code;Lua+Scripting+Expert;Dedicated+Roleplay+Developer" alt="Typing SVG" />
 </a>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=MrCycronee&label=Interdimensional+Visitors&color=7F8C8D&style=flat-square&labelColor=1a1a1a" alt="Besucherzähler" /> 
+</p>
 
 </div>
 <div align="center">
@@ -52,7 +56,5 @@ Ich bin ein **dedizierter Softwareentwickler**, spezialisiert auf die **FiveM-Pl
 
 <div align="center">
   <br>
-  
-  <br><br>
   
 </div>
