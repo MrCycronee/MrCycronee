@@ -27,7 +27,7 @@
 <br><br>
 
 <p style="font-size: 1.2rem;">
-  <img src="https://komarev.com/ghpvc/?username=MrCycronee&label=Profile+Views&color=FFFFFF&style=for-the-badge&labelColor=000000" height="32" />
+  <img src="https://komarev.com/ghpvc/?username=MrCycronee&label=Profile+Views&color=FFFFFF&style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000" height="32" />
 </p>
 
 </div>
