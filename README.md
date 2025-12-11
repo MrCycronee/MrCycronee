@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/FiveM%20Development-Lua-EDEDED?style=flat-square&logo=lua&logoColor=black" alt="FiveM Development" />
   <img src="https://img.shields.io/badge/Discord.js-Bots-D1D5DB?style=flat-square&logo=discord&logoColor=black" alt="Discord.js" />
   <img src="https://img.shields.io/badge/Backend-Architecture-9CA3AF?style=flat-square&logo=serverless&logoColor=black" alt="Backend Architecture" />
+  <img src="https://komarev.com/ghpvc/?username=MrCycronee&label=Interdimensional+Visitors&color=D1D5DB&style=flat-square&labelColor=1a1a1a" alt="Besucherzähler" /> 
 </p>
 
 <a href="https://git.io/typing-svg">
@@ -51,7 +52,7 @@ Ich bin ein **dedizierter Softwareentwickler**, spezialisiert auf die **FiveM-Pl
 
 <div align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=MrCycronee&label=Interdimensional+Visitors&color=D1D5DB&style=flat-square&labelColor=1a1a1a" alt="Besucherzähler" /> 
+  
   <br><br>
-  <img src="https://profile-counter.glitch.me/{MrCycronee}/count.svg" alt="Visitors Count">
+  
 </div>
