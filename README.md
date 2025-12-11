@@ -24,7 +24,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Turning+FiveM+Ideas+Into+Code;Lua+Scripting+Expert;Dedicated+Roleplay+Developer" />
 </a>
 
-<br><br>
+<br>
 
 <p style="font-size: 1.2rem;">
   <img src="https://komarev.com/ghpvc/?username=MrCycronee&label=PROFILE%20VIEWS&color=FFFFFF&style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000" height="32" />
