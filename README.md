@@ -51,7 +51,9 @@ I'm a **dedicated software developer** specializing in **FiveM platform and Lua 
 <br>
 
  🎮 **Core Competence:** FiveM Development (Lua, NUI, Database Integration)
+ 
   🤖 **Automation:** Creation of stable Discord bots for server management
+  
  🚀 **Mindset:** Continuous learning and optimization of workflows
 
 <br>
