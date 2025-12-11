@@ -4,30 +4,30 @@
 
 <br><br>
 
-# <span style="font-size: 3.5rem; color:#FFFFFF;">👋 Hi there!</span>
+# <span style="font-size: 3.5rem; color:#000000;">👋 Hi there!</span>
 
-## <span style="font-size: 2.2rem; color:#FFFFFF;">I'm !MrCycrone – FiveM Developer</span>
+## <span style="font-size: 2.2rem; color:#000000;">I'm !MrCycrone – FiveM Developer</span>
 
 <br>
 
 <p style="font-size: 1.1rem;">
-  <img src="https://img.shields.io/badge/FiveM%20Development-Lua-FFFFFF?style=for-the-badge&logo=lua&logoColor=000000&labelColor=FFFFFF" height="32" />
+  <img src="https://img.shields.io/badge/FiveM%20Development-Lua-FFFFFF?style=for-the-badge&logo=lua&logoColor=000000&labelColor=E5E5E5" height="32" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Discord.js-Bots-FFFFFF?style=for-the-badge&logo=discord&logoColor=000000&labelColor=FFFFFF" height="32" />
+  <img src="https://img.shields.io/badge/Discord.js-Bots-FFFFFF?style=for-the-badge&logo=discord&logoColor=000000&labelColor=E5E5E5" height="32" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Backend-Architecture-FFFFFF?style=for-the-badge&logo=serverless&logoColor=000000&labelColor=FFFFFF" height="32" />
+  <img src="https://img.shields.io/badge/Backend-Architecture-FFFFFF?style=for-the-badge&logo=serverless&logoColor=000000&labelColor=E5E5E5" height="32" />
 </p>
 
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Turning+FiveM+Ideas+Into+Code;Lua+Scripting+Expert;Dedicated+Roleplay+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=000000&center=true&vCenter=true&width=600&height=60&lines=Turning+FiveM+Ideas+Into+Code;Lua+Scripting+Expert;Dedicated+Roleplay+Developer" />
 </a>
 
 <br><br>
 
 <p style="font-size: 1.2rem;">
-  <img src="https://komarev.com/ghpvc/?username=MrCycronee&label=Profile+Views&color=FFFFFF&style=for-the-badge&labelColor=FFFFFF" height="32" />
+  <img src="https://komarev.com/ghpvc/?username=MrCycronee&label=Profile+Views&color=000000&style=for-the-badge&labelColor=E5E5E5" height="32" />
 </p>
 
 </div>
@@ -36,25 +36,25 @@
 
 <div align="center">
 
-## <span style="font-size: 2.2rem; color:#FFFFFF;">📜 About Me</span>
+## <span style="font-size: 2.2rem; color:#000000;">📜 About Me</span>
 
 <br>
 
-<div align="center" style="max-width: 900px; margin: 0 auto; font-size: 1.2rem; line-height: 1.8; color:#FFFFFF;">
+<div align="center" style="max-width: 900px; margin: 0 auto; font-size: 1.2rem; line-height: 1.8; color:#000000;">
 
 I'm a **dedicated software developer** specializing in **FiveM platform and Lua scripting**.  
-My goal is to deliver performant, clean code and transform complex ideas into functional digital experiences.
+I focus on creating scalable, efficient and optimized scripts for the best roleplay experience.
 
 <br>
 
-🎮 **Core Competence:** FiveM Development (Lua, NUI, Database Integration)  
-🤖 **Automation:** Stable Discord Bots for server operations  
-🚀 **Mindset:** Continuous learning, optimization & workflow improvement  
+🎮 **Core Competence:** FiveM (Lua, NUI, Database)  
+🤖 **Automation:** Discord bots for server management  
+🚀 **Mindset:** Always improving & learning  
 
 <br>
 
-> **<span style="font-size: 1.3rem; color:#FFFFFF;">My Credo:</span>**  
-> Code must not only function — it must be maintainable, efficient and optimized for the best possible roleplay experience.
+> **My Credo:**  
+> *Clean code wins every time.*
 
 </div>
 </div>
@@ -63,11 +63,11 @@ My goal is to deliver performant, clean code and transform complex ideas into fu
 
 <div align="center">
 
-## <span style="font-size: 2.2rem; color:#FFFFFF;">🛠️ Tech Stack & Tools</span>
+## <span style="font-size: 2.2rem; color:#000000;">🛠️ Tech Stack & Tools</span>
 
 <br>
 
-<p align="center" style="font-size: 1.3rem;">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,cloudflare,devto,discord,bots,discordjs,java,js,lua,py,vscode,github,git,nodejs,mysql,redis,nginx,linux,azure,aws&perline=11&theme=light" width="90%" />
   </a>
@@ -79,7 +79,7 @@ My goal is to deliver performant, clean code and transform complex ideas into fu
 
 <div align="center">
 
-## <span style="font-size: 2.2rem; color:#FFFFFF;">🌐 Stay Connected</span>
+## <span style="font-size: 2.2rem; color:#000000;">🌐 Stay Connected</span>
 
 <br>
 
@@ -91,22 +91,20 @@ My goal is to deliver performant, clean code and transform complex ideas into fu
 
 <br><br>
 
-<div align="center" style="font-size: 1.3rem; color: #FFFFFF;">
+<div align="center" style="font-size: 1.3rem; color:#000000;">
 
-### <span style="font-size: 1.6rem; color:#FFFFFF;">🚀 Always Building, Always Learning</span>
-
-<br>
-
-<p style="font-size: 1.2rem;">
-  <i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me on Discord.</i>
-</p>
+### 🚀 Always Building, Always Learning
 
 <br>
 
-⭐ <strong>Star my repositories if you find them useful!</strong>
+<i>Thanks for checking out my profile! Feel free to explore my work and connect with me.</i>
 
 <br><br>
 
-<sub style="color:#FFFFFF;">Last Updated: © December 2025</sub>
+⭐ <strong>Star my repositories if you like them!</strong>
+
+<br><br>
+
+<sub style="color:#000000;">Last Updated: © December 2025</sub>
 
 </div>
