@@ -54,8 +54,7 @@ I focus on creating scalable, efficient and optimized scripts for the best rolep
 
 <br>
 
-> **My Credo:**  
-> *Clean code wins every time.*
+> **<span style="font-size: 1.3rem;">My Credo:</span>** Code must not only function, but also be maintainable, efficient and optimized for the best possible roleplay experience.
 
 </div>
 </div>
