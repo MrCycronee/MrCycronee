@@ -55,7 +55,5 @@ Ich bin ein **dedizierter Softwareentwickler**, spezialisiert auf die **FiveM-Pl
 
 <div align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=MrCycronee&label=Interdimensional+Visitors&color=D1D5DB&style=flat-square&labelColor=1a1a1a" alt="Besucherzähler" /> 
-  <br><br>
   <img src="https://profile-counter.glitch.me/{MrCycronee}/count.svg" alt="Visitors Count">
 </div>
