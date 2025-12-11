@@ -52,11 +52,11 @@ Digital alchemist transforming coffee into code and ideas into digital experienc
 <div align="center">
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=MrCycronee&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true&custom_title=GitHub%20Stats&title_color=7e22ce&icon_color=7e22ce&text_color=ffffff&bg_color=00000000" alt="MrCycronee's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MrCycronee&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true&custom_title=GitHub%20Stats&title_color=7e22ce&icon_color=7e22ce&text_color=ffffff&bg_color=1f2025" alt="MrCycronee's GitHub Stats" />
   </p>
   
   <p>
-    <img src="https://streak-stats.demolab.com?user=MrCycronee&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&ring=7e22ce&fire=7e22ce&currStreakNum=7e22ce&sideNums=7e22ce&currStreakLabel=7e22ce&sideLabels=7e22ce&dates=ffffff" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=MrCycronee&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1f2025&ring=7e22ce&fire=7e22ce&currStreakNum=7e22ce&sideNums=7e22ce&currStreakLabel=7e22ce&sideLabels=7e22ce&dates=ffffff" alt="GitHub Streak" />
   </p>
 
 </div>
