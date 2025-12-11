@@ -98,7 +98,6 @@ I'm a **dedicated software developer** specializing in **FiveM platform and Lua 
 
 <div align="center" style="font-size: 1.3rem; color: #6C757D;">
 
-<br>
 
 ### <span style="font-size: 1.6rem;">🚀 Always Building, Always Learning</span>
 
