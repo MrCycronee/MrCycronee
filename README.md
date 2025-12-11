@@ -2,7 +2,7 @@
 
 # Hi, I'm !MrCycrone 👋
 
-### 🎮 FiveM / Lua Developer | Digital Alchemist
+### 🎮 FiveM / Lua Developer | Cloud Enthusiast
 
 <p>
   <img src="https://img.shields.io/badge/FiveM%20Development-Lua-EDEDED?style=flat-square&logo=lua&logoColor=black" alt="FiveM Development" />
@@ -25,13 +25,13 @@
   <img src="https://github.com/MrCycronee/images/blob/main/logo.png?raw=true" alt="Projekt Logo" width="250"/>
 </div>
 ---
-## Über Mich & Fokus
+## Über Mich & Kernkompetenzen
 
-Ich bin ein **dedizierter FiveM/Lua Developer**, der Kaffee in sauberen, performanten Code für RP-Frameworks verwandelt. Meine Expertise liegt in der Erstellung von robusten, skalierbaren Scripts und der Optimierung der Benutzererfahrung (UX) über HTML/CSS.
+Ich bin ein **dedizierter Softwareentwickler**, spezialisiert auf die **FiveM-Plattform und Lua-Scripting**. Mein Ziel ist es, performanten, sauberen Code zu liefern und komplexe Ideen in funktionale digitale Erlebnisse zu transformieren. Ich nutze meine breite Programmierbasis, um in folgenden Bereichen Expertise zu bieten:
 
-* **Fokus:** Entwicklung von serverseitigen und clientseitigen Lua-Scripts (ESX/QBCore).
-* **Skills:** Datenbank-Design (SQL) und Frontend-Gestaltung für NUI (HTML/CSS/JS).
-* **Zusätzlich:** Crafting von Discord-Bots zur Serververwaltung.
+* **FiveM-Entwicklung:** Erstellung robuster, skalierbarer Scripts (ESX/QBCore) und Optimierung der Benutzererfahrung (UX).
+* **Cross-Plattform:** Entwicklung von stabilen Discord-Bots zur Automatisierung und Serververwaltung.
+* **Architektur:** Datenbank-Design (SQL), Backend-Architekturen und explorative Arbeit mit Cloud-Infrastrukturen.
 
 > **Mein Credo:** Code muss nicht nur funktionieren, sondern auch wartbar, effizient und für das bestmögliche Roleplay-Erlebnis optimiert sein.
 
@@ -41,7 +41,7 @@ Ich bin ein **dedizierter FiveM/Lua Developer**, der Kaffee in sauberen, perform
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,html,css,js,mysql,cpp,discordjs,bots,vscode" alt="Programmiersprachen und Tools" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,cloudflare,devto,discord,bots,discordjs,java,js,lua,py,vscode" alt="Alle Programmiersprachen und Tools" />
   </a>
 </p>
 
