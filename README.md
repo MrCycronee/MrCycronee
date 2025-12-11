@@ -69,7 +69,7 @@ I focus on creating scalable, efficient and optimized scripts for the best rolep
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,cloudflare,devto,discord,bots,discordjs,java,js,lua,py,vscode,github,git,nodejs,mysql,redis,nginx,linux,azure,aws&perline=11&theme=dark" width="90%" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,cloudflare,devto,discord,bots,discordjs,java,js,lua,py,vscode,github&perline=11&theme=dark" width="90%" />
   </a>
 </p>
 
