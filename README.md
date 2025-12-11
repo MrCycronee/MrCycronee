@@ -2,12 +2,12 @@
 
 # 👋 Hi, I'm !MrCycrone ✨
 
-### FiveM Developer & Digital Alchemist
+### 🎮 FiveM Developer | ☁️ Cloud Enthusiast
 
 <p>
-  <img src="https://img.shields.io/badge/FiveM%20Development-Lua-7e22ce?style=for-the-badge&logo=lua&logoColor=white" alt="FiveM Development" />
-  <img src="https://img.shields.io/badge/Discord.js-Wizardry-8b5cf6?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js" />
-  <img src="https://img.shields.io/badge/Cloud%20Sorcery-CI%2FCD-a855f7?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloud Sorcery" />
+  <img src="https://img.shields.io/badge/FiveM%20Development-Lua-A855F7?style=flat-square&logo=lua&logoColor=white" alt="FiveM Development" />
+  <img src="https://img.shields.io/badge/Discord.js-Bots-8B5CF6?style=flat-square&logo=discord&logoColor=white" alt="Discord.js" />
+  <img src="https://img.shields.io/badge/Backend-Architecture-7E22CE?style=flat-square&logo=serverless&logoColor=white" alt="Backend Architecture" />
 </p>
 
 <a href="https://git.io/typing-svg">
@@ -15,31 +15,31 @@
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=MrCycronee&label=Interdimensional+Visitors&color=7e22ce&style=flat-square&labelColor=1a1a1a" alt="MrCycronee Besucher" /> 
+  <img src="https://komarev.com/ghpvc/?username=MrCycronee&label=Interdimensional+Visitors&color=7e22ce&style=flat-square&labelColor=1a1a1a" alt="Besucherzähler" /> 
 </p>
 
 </div>
 ---
 
 <div align="center">
-  <img src="https://github.com/MrCycronee/images/blob/main/logo.png?raw=true" alt="Projekt Logo" width="300"/>
+  <img src="https://github.com/MrCycronee/images/blob/main/logo.png?raw=true" alt="Projekt Logo" width="250"/>
 </div>
 ---
-## 🌌 Über Mich (About Me)
+## 🌌 Über Mich & Mein Credo
 
-Digital alchemist transforming coffee into code and ideas into digital experiences. I wander through the realms of programming languages, from the low-level magic of C++ to the dynamic worlds of JavaScript and Python.
+Ich bin ein digitaler Alchemist, der Kaffee in Code und Ideen in digitale Erlebnisse verwandelt. Meine Reise führt mich durch Programmiersprachen, von der Low-Level-Magie von C++ bis zu den dynamischen Welten von JavaScript und Python.
 
-* 🌙 **By night:** Crafting Discord bots that bring communities together
-* ☀️ **By day:** Exploring cloud infrastructures and backend architectures
-* 🔭 **Always:** Experimenting with new technologies and frameworks
+* 🌙 **Fokus Nachts:** Gestaltung und Entwicklung von Discord-Bots zur Stärkung von Communitys.
+* ☀️ **Fokus Tagsüber:** Erkundung und Optimierung von Cloud-Infrastrukturen und Backend-Architekturen.
+* 🔭 **Konstant:** Experimentieren mit neuen Technologien und Frameworks.
 
-> **Believer in open-source, community-driven development, and the power of code to create positive change in digital spaces.**
+> **Mein Credo:** Ich glaube an Open Source, gemeinschaftsgetriebene Entwicklung und die Kraft von Code, positive Veränderungen in digitalen Räumen zu schaffen.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Mein Tech Stack & Werkzeuge
 
-<p>
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,cloudflare,devto,discord,bots,discordjs,java,js,lua,py,vscode" alt="Programmiersprachen und Tools" />
   </a>
@@ -47,41 +47,17 @@ Digital alchemist transforming coffee into code and ideas into digital experienc
 
 ---
 
-## 📊 Meine Digitale Präsenz (Stats)
-
-<div align="center">
-  
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=MrCycronee&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true&custom_title=GitHub%20Stats&title_color=7e22ce&icon_color=7e22ce&text_color=ffffff&bg_color=1f2025" alt="MrCycronee's GitHub Stats" />
-  </p>
-  
-  <p>
-    <img src="https://streak-stats.demolab.com?user=MrCycronee&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1f2025&ring=7e22ce&fire=7e22ce&currStreakNum=7e22ce&sideNums=7e22ce&currStreakLabel=7e22ce&sideLabels=7e22ce&dates=ffffff" alt="GitHub Streak" />
-  </p>
-
-</div>
-
----
-
-## 🌠 Code-Aktivität
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrCycronee&theme=react-dark&area=true&hide_border=true&custom_title=Contribution%20Activity&title_color=7e22ce&color=7e22ce&point=7e22ce&area_color=7e22ce&bg_color=00000000" alt="Contribution Graph" />
-</div>
-
----
-
-## 🌐 Bleib in Verbindung (Socials)
+## 🌐 Bleib in Verbindung
 
 <p align="left">
   <a href="https://discord.gg/DNEfAmV9AS" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   </p>
 
 ---
 
-## ☕ Unterstütze meine Arbeit (Support)
+## ☕ Support (Optional)
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
