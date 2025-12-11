@@ -1,17 +1,17 @@
 <div align="center">
 
-# 👋 Hi, I'm !MrCycrone ✨
+# Hi, I'm !MrCycrone 👋
 
-### 🎮 FiveM Developer | ☁️ Cloud Enthusiast
+### 🎮 FiveM / Lua Developer | Digital Alchemist
 
 <p>
   <img src="https://img.shields.io/badge/FiveM%20Development-Lua-EDEDED?style=flat-square&logo=lua&logoColor=black" alt="FiveM Development" />
-  <img src="https://img.shields.io/badge/Discord.js-Bots-D1D5DB?style=flat-square&logo=discord&logoColor=black" alt="Discord.js" />
-  <img src="https://img.shields.io/badge/Backend-Architecture-9CA3AF?style=flat-square&logo=serverless&logoColor=black" alt="Backend Architecture" />
+  <img src="https://img.shields.io/badge/Frontend-HTML%2FCSS%2FJS-D1D5DB?style=flat-square&logo=html5&logoColor=black" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Backend-SQL%2FDatabase-9CA3AF?style=flat-square&logo=mysql&logoColor=black" alt="Database" />
 </p>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EDEDED&center=true&vCenter=true&width=435&lines=Turning+Coffee+Into+Code;Quantum+Bits+Enthusiast;Open+Source+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EDEDED&center=true&vCenter=true&width=435&lines=Turning+FiveM+Ideas+Into+Code;Lua+Scripting+Expert;Dedicated+Roleplay+Developer" alt="Typing SVG" />
 </a>
 
 <p>
@@ -25,29 +25,29 @@
   <img src="https://github.com/MrCycronee/images/blob/main/logo.png?raw=true" alt="Projekt Logo" width="250"/>
 </div>
 ---
-## 🌌 Über Mich & Mein Credo
+## Über Mich & Fokus
 
-Ich bin ein digitaler Alchemist, der Kaffee in Code und Ideen in digitale Erlebnisse verwandelt. Meine Reise führt mich durch Programmiersprachen, von der Low-Level-Magie von C++ bis zu den dynamischen Welten von JavaScript und Python.
+Ich bin ein **dedizierter FiveM/Lua Developer**, der Kaffee in sauberen, performanten Code für RP-Frameworks verwandelt. Meine Expertise liegt in der Erstellung von robusten, skalierbaren Scripts und der Optimierung der Benutzererfahrung (UX) über HTML/CSS.
 
-* 🌙 **Fokus Nachts:** Gestaltung und Entwicklung von Discord-Bots zur Stärkung von Communitys.
-* ☀️ **Fokus Tagsüber:** Erkundung und Optimierung von Cloud-Infrastrukturen und Backend-Architekturen.
-* 🔭 **Konstant:** Experimentieren mit neuen Technologien und Frameworks.
+* **Fokus:** Entwicklung von serverseitigen und clientseitigen Lua-Scripts (ESX/QBCore).
+* **Skills:** Datenbank-Design (SQL) und Frontend-Gestaltung für NUI (HTML/CSS/JS).
+* **Zusätzlich:** Crafting von Discord-Bots zur Serververwaltung.
 
-> **Mein Credo:** Ich glaube an Open Source, gemeinschaftsgetriebene Entwicklung und die Kraft von Code, positive Veränderungen in digitalen Räumen zu schaffen.
+> **Mein Credo:** Code muss nicht nur funktionieren, sondern auch wartbar, effizient und für das bestmögliche Roleplay-Erlebnis optimiert sein.
 
 ---
 
-## 🛠️ Mein Tech Stack & Werkzeuge
+## Tech Stack & Werkzeuge
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,cloudflare,devto,discord,bots,discordjs,java,js,lua,py,vscode" alt="Programmiersprachen und Tools" />
+    <img src="https://skillicons.dev/icons?i=lua,html,css,js,mysql,cpp,discordjs,bots,vscode" alt="Programmiersprachen und Tools" />
   </a>
 </p>
 
 ---
 
-## 🌐 Bleib in Verbindung
+## Bleib in Verbindung
 
 <p align="left">
   <a href="https://discord.gg/DNEfAmV9AS" target="_blank">
@@ -57,7 +57,7 @@ Ich bin ein digitaler Alchemist, der Kaffee in Code und Ideen in digitale Erlebn
 
 ---
 
-## ☕ Support (Optional)
+## Support (Optional)
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
