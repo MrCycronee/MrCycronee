@@ -1,43 +1,27 @@
 <div align="center">
 
-# Hi, I'm !MrCycrone 👋
+# Hi there! 👋
 
-### 🎮 FiveM / Lua Developer | Cloud Enthusiast
-
-<p>
-  <img src="https://img.shields.io/badge/FiveM%20Development-Lua-EDEDED?style=flat-square&logo=lua&logoColor=black" alt="FiveM Development" />
-  <img src="https://img.shields.io/badge/Frontend-HTML%2FCSS%2FJS-D1D5DB?style=flat-square&logo=html5&logoColor=black" alt="Frontend" />
-  <img src="https://img.shields.io/badge/Backend-SQL%2FDatabase-9CA3AF?style=flat-square&logo=mysql&logoColor=black" alt="Database" />
-</p>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EDEDED&center=true&vCenter=true&width=435&lines=Turning+FiveM+Ideas+Into+Code;Lua+Scripting+Expert;Dedicated+Roleplay+Developer" alt="Typing SVG" />
-</a>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=MrCycronee&label=Interdimensional+Visitors&color=D1D5DB&style=flat-square&labelColor=1a1a1a" alt="Besucherzähler" /> 
-</p>
+### I'm !MrCycrone – FiveM Developer and Cloud Enthusiast
 
 </div>
----
-
 <div align="center">
-  <img src="https://github.com/MrCycronee/images/blob/main/logo.png?raw=true" alt="Projekt Logo" width="250"/>
+  <img src="https://github.com/MrCycronee/images/blob/main/logo.png?raw=true" alt="!MrCycrone Logo" width="400"/>
 </div>
 ---
-## Über Mich & Kernkompetenzen
+## 📜 Über Mich
 
-Ich bin ein **dedizierter Softwareentwickler**, spezialisiert auf die **FiveM-Plattform und Lua-Scripting**. Mein Ziel ist es, performanten, sauberen Code zu liefern und komplexe Ideen in funktionale digitale Erlebnisse zu transformieren. Ich nutze meine breite Programmierbasis, um in folgenden Bereichen Expertise zu bieten:
+Ich bin ein **dedizierter Softwareentwickler**, spezialisiert auf die **FiveM-Plattform und Lua-Scripting**. Mein Ziel ist es, performanten, sauberen Code zu liefern und komplexe Ideen in funktionale digitale Erlebnisse zu transformieren. Ich nutze meine breite Programmierbasis, um skalierbare Scripts und optimierte User Experiences zu entwickeln.
 
-* **FiveM-Entwicklung:** Erstellung robuster, skalierbarer Scripts (ESX/QBCore) und Optimierung der Benutzererfahrung (UX).
-* **Cross-Plattform:** Entwicklung von stabilen Discord-Bots zur Automatisierung und Serververwaltung.
-* **Architektur:** Datenbank-Design (SQL), Backend-Architekturen und explorative Arbeit mit Cloud-Infrastrukturen.
+* 🎮 **Kernkompetenz:** FiveM Development (Lua, NUI, Datenbank-Integration).
+* ☁️ **Zusätzlich:** Fokus auf Backend-Architekturen und explorative Cloud-Arbeiten.
+* 🤖 **Automation:** Erstellung stabiler Discord-Bots zur Serververwaltung.
 
 > **Mein Credo:** Code muss nicht nur funktionieren, sondern auch wartbar, effizient und für das bestmögliche Roleplay-Erlebnis optimiert sein.
 
 ---
 
-## Tech Stack & Werkzeuge
+## 🛠️ Tech Stack & Werkzeuge
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -47,7 +31,7 @@ Ich bin ein **dedizierter Softwareentwickler**, spezialisiert auf die **FiveM-Pl
 
 ---
 
-## Bleib in Verbindung
+## 🌐 Bleib in Verbindung
 
 <p align="left">
   <a href="https://discord.gg/DNEfAmV9AS" target="_blank">
@@ -57,7 +41,7 @@ Ich bin ein **dedizierter Softwareentwickler**, spezialisiert auf die **FiveM-Pl
 
 ---
 
-## Support (Optional)
+## ☕ Support My Work
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
@@ -67,5 +51,7 @@ Ich bin ein **dedizierter Softwareentwickler**, spezialisiert auf die **FiveM-Pl
 
 <div align="center">
   <br>
+  <img src="https://komarev.com/ghpvc/?username=MrCycronee&label=Interdimensional+Visitors&color=D1D5DB&style=flat-square&labelColor=1a1a1a" alt="Besucherzähler" /> 
+  <br><br>
   <img src="https://profile-counter.glitch.me/{MrCycronee}/count.svg" alt="Visitors Count">
 </div>
