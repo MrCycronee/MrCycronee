@@ -55,5 +55,5 @@ Ich bin ein **dedizierter Softwareentwickler**, spezialisiert auf die **FiveM-Pl
 
 <div align="center">
   <br>
-  <img src="https://profile-counter.glitch.me/{MrCycronee}/count.svg" alt="Visitors Count">
+  
 </div>
