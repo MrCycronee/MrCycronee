@@ -4,7 +4,7 @@
 
 <img src="https://github.com/MrCycronee/images/blob/main/new_logo.png" width="450" alt="!MrCycrone Logo" />
 
-## <span style="font-size: 2.2rem; color:#FFFFFF;">I'm !MrCycrone – FiveM Developer</span>
+## <span style="font-size: 2.2rem; color:#FFFFFF;">I'm FiveM Developer</span>
 
 <br>
 
