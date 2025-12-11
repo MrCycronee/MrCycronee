@@ -1,98 +1,71 @@
-<!-- Intro -->
 <div align="center">
-<h1 style="color: #a855f7;">✨ !MrCycrone ✨</h1>
-<h3 style="color: #c084fc;">I'm !MrCycrone – FiveM Developer</h3>
+
+# Hi, I'm !MrCycrone 👋
+
+### 🎮 FiveM / Lua Developer | Cloud Enthusiast
+
 <p>
-<code style="background: #7e22ce; color: white; padding: 4px 8px; border-radius: 5px;">🤖 Lua Bot Crafting</code> •
-<code style="background: #8b5cf6; color: white; padding: 4px 8px; border-radius: 5px;">🎯 Discord.js Wizardry</code> •
-<code style="background: #a855f7; color: white; padding: 4px 8px; border-radius: 5px;">☁️ Cloud Sorcery</code>
+  <img src="https://img.shields.io/badge/FiveM%20Development-Lua-EDEDED?style=flat-square&logo=lua&logoColor=black" alt="FiveM Development" />
+  <img src="https://img.shields.io/badge/Frontend-HTML%2FCSS%2FJS-D1D5DB?style=flat-square&logo=html5&logoColor=black" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Backend-SQL%2FDatabase-9CA3AF?style=flat-square&logo=mysql&logoColor=black" alt="Database" />
 </p>
+
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=a855f7&center=true&vCenter=true&width=435&lines=Turning+Coffee+Into+Code;Quantum+Bits+Enthusiast;Open+Source+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EDEDED&center=true&vCenter=true&width=435&lines=Turning+FiveM+Ideas+Into+Code;Lua+Scripting+Expert;Dedicated+Roleplay+Developer" alt="Typing SVG" />
 </a>
-</div>
-
-<!-- Logo -->
-<p align="center">
-<img src="https://github.com/MrCycronee/images/blob/main/logo.png"width="400"/>
-</p>
-
-<!-- Besucherzähler -->
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=MrCycronee&label=Interdimensional+Visitors&color=7e22ce&style=for-the-badge&labelColor=000000" alt="MrCycronee" />
-</p>
-
----
-
-### 🌌 About Me
 
 <p>
-Digital alchemist transforming coffee into code and ideas into digital experiences.
-I wander through the realms of programming languages, from the low-level magic of C++
-to the dynamic worlds of JavaScript and Python.
-
-🌙 By night: Crafting Discord bots that bring communities together
-
-☀️ By day: Exploring cloud infrastructures and backend architectures
-
-🔭 Always: Experimenting with new technologies and frameworks
-
-**Believer in open-source, community-driven development, and the power of code to
-create positive change in digital spaces.**
+  <img src="https://komarev.com/ghpvc/?username=MrCycronee&label=Interdimensional+Visitors&color=D1D5DB&style=flat-square&labelColor=1a1a1a" alt="Besucherzähler" /> 
 </p>
 
+</div>
 ---
-
-### 🛠️ Skills
-
-<p align="left">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=c,cs,cpp,cloudflare,devto,discord,bots,discordjs,java,js,lua,py,vscode" />
-</a>
-</p>
-
----
-
-### 🌐 Socials
-
-<p align="left">
-<a href="https://discord.gg/DNEfAmV9AS" target="_blank">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-</a>
-</p>
-
----
-
-### 📊 My Digital Footprint
 
 <div align="center">
-<table border="0" cellpadding="10">
-<tr valign="top">
-<td width="50%">
-<img src="https://streak-stats.demolab.com?user=MrCycronee&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&ring=7e22ce&fire=7e22ce&currStreakNum=7e22ce&sideNums=7e22ce&currStreakLabel=7e22ce&sideLabels=7e22ce&dates=ffffff" alt="GitHub Streak"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=MrCycronee&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true&custom_title=GitHub%20Stats&title_color=7e22ce&icon_color=7e22ce&text_color=ffffff&bg_color=00000000" alt="MrCycronee's GitHub Stats"/>
-</td>
-</tr>
-</table>
+  <img src="https://github.com/MrCycronee/images/blob/main/logo.png?raw=true" alt="Projekt Logo" width="250"/>
 </div>
+---
+## Über Mich & Kernkompetenzen
+
+Ich bin ein **dedizierter Softwareentwickler**, spezialisiert auf die **FiveM-Plattform und Lua-Scripting**. Mein Ziel ist es, performanten, sauberen Code zu liefern und komplexe Ideen in funktionale digitale Erlebnisse zu transformieren. Ich nutze meine breite Programmierbasis, um in folgenden Bereichen Expertise zu bieten:
+
+* **FiveM-Entwicklung:** Erstellung robuster, skalierbarer Scripts (ESX/QBCore) und Optimierung der Benutzererfahrung (UX).
+* **Cross-Plattform:** Entwicklung von stabilen Discord-Bots zur Automatisierung und Serververwaltung.
+* **Architektur:** Datenbank-Design (SQL), Backend-Architekturen und explorative Arbeit mit Cloud-Infrastrukturen.
+
+> **Mein Credo:** Code muss nicht nur funktionieren, sondern auch wartbar, effizient und für das bestmögliche Roleplay-Erlebnis optimiert sein.
 
 ---
 
-### 🌠 Code Echoes Through Time
+## Tech Stack & Werkzeuge
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrCycronee&theme=react-dark&area=true&hide_border=true&custom_title=Contribution%20Activity&title_color=7e22ce&color=7e22ce&point=7e22ce&area_color=7e22ce&bg_color=00000000" alt="Contribution Graph"/>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,cloudflare,devto,discord,bots,discordjs,java,js,lua,py,vscode" alt="Alle Programmiersprachen und Tools" />
+  </a>
 </p>
 
--
+---
 
-### ☕ Support My Work
+## Bleib in Verbindung
 
-<p align="center">
-<a href="https://www.buymeacoffee.com/yourusername" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" style="filter: drop-shadow(0 0 10px #7e22ce) hue-rotate(280deg) saturate(1.2);">
-</a>
-</p>
+<p align="left">
+  <a href="https://discord.gg/DNEfAmV9AS" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  </p>
+
+---
+
+## Support (Optional)
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" style="filter: drop-shadow(0 0 10px #D1D5DB) hue-rotate(280deg) saturate(1.2);">
+  </a>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://profile-counter.glitch.me/{MrCycronee}/count.svg" alt="Visitors Count">
+</div>
