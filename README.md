@@ -1,10 +1,8 @@
+# <span style="font-size: 3.5rem; color:#FFFFFF;">👋 Hi there!</span>
+
 <div align="center">
 
 <img src="https://github.com/MrCycronee/images/blob/main/new_logo.png" width="450" alt="!MrCycrone Logo" />
-
-<br><br>
-
-# <span style="font-size: 3.5rem; color:#FFFFFF;">👋 Hi there!</span>
 
 ## <span style="font-size: 2.2rem; color:#FFFFFF;">I'm !MrCycrone – FiveM Developer</span>
 
@@ -69,13 +67,11 @@ I focus on creating scalable, efficient and optimized scripts for the best rolep
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,cloudflare,devto,discord,bots,discordjs,java,js,lua,py,vscode,github&perline=11&theme=dark" width="70%" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,cloudflare,devto,discord,bots,discordjs,java,js,lua,py,vscode,github&perline=11&theme=dark" width="90%" />
   </a>
 </p>
 
 </div>
-
-<br><br>
 
 <div align="center">
 
@@ -89,8 +85,6 @@ I focus on creating scalable, efficient and optimized scripts for the best rolep
   </a>
 </p>
 
-<br><br>
-
 <div align="center" style="font-size: 1.3rem; color:#FFFFFF;">
 
 ### 🚀 Always Building, Always Learning
@@ -102,6 +96,7 @@ I focus on creating scalable, efficient and optimized scripts for the best rolep
 
 ⭐ <strong>Star my repositories if you like them!</strong>
 
+<br>
 
 <sub style="color:#FFFFFF;">Last Updated: © December 2025</sub>
 
