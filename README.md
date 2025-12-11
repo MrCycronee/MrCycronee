@@ -110,6 +110,6 @@ I'm a **dedicated software developer** specializing in **FiveM platform and Lua 
 
 <br><br>
 
-<sub>Last Updated: December 2025</sub>
+<sub>Last Updated: © December 2025</sub>
 
 </div>
