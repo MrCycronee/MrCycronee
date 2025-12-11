@@ -37,17 +37,7 @@ Ich bin ein **dedizierter Softwareentwickler**, spezialisiert auf die **FiveM-Pl
   <a href="https://discord.gg/DNEfAmV9AS" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  </p>
-
----
-
-## ☕ Support My Work
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" style="filter: drop-shadow(0 0 10px #D1D5DB) hue-rotate(280deg) saturate(1.2);">
-  </a>
-</div>
+</p>
 
 <div align="center">
   <br>
