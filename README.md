@@ -99,11 +99,9 @@ I focus on creating scalable, efficient and optimized scripts for the best rolep
 
 <i>Thanks for checking out my profile! Feel free to explore my work and connect with me.</i>
 
-<br><br>
 
 ⭐ <strong>Star my repositories if you like them!</strong>
 
-<br><br>
 
 <sub style="color:#FFFFFF;">Last Updated: © December 2025</sub>
 
