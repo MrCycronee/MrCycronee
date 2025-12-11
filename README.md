@@ -48,12 +48,6 @@ Ich bin ein **dedizierter Softwareentwickler**, spezialisiert auf die **FiveM-Pl
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrCycronee&show_icons=true&theme=graywhite&hide_border=true&bg_color=00000000&title_color=6C757D&icon_color=6C757D&text_color=6C757D" alt="MrCycronee's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrCycronee&layout=compact&theme=graywhite&hide_border=true&bg_color=00000000&title_color=6C757D&text_color=6C757D" alt="Top Languages" />
-</div>
 
 ---
 
