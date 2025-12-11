@@ -48,9 +48,6 @@ Ich bin ein **dedizierter Softwareentwickler**, spezialisiert auf die **FiveM-Pl
 
 ---
 
-
----
-
 ## 🌐 Bleib in Verbindung
 
 <p align="left">
