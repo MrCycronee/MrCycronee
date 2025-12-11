@@ -108,27 +108,6 @@ I'm a **dedicated software developer** specializing in **FiveM platform and Lua 
 
 <br>
 
-<!-- Alternative Discord Anzeige mit größerem Icon -->
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; font-size: 1.4rem;">
-  <img src="https://img.shields.io/badge/-Discord_Server-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" height="40" />
-  <span style="font-weight: bold; color: #6C757D;">discord.gg/DNEfAmV9AS</span>
-</div>
-
-<br><br>
-
-<!-- Weitere Option - Discord Widget -->
-<div style="background-color: #f8f9fa; padding: 25px; border-radius: 15px; max-width: 600px; margin: 0 auto; border: 2px solid #dee2e6;">
-  <h3 style="color: #5865F2; margin-bottom: 15px; font-size: 1.8rem;">🎮 Join My Discord Community</h3>
-  <p style="font-size: 1.2rem; color: #6C757D; margin-bottom: 20px;">
-    Connect with me and other developers! Get support, share projects, and collaborate.
-  </p>
-  <a href="https://discord.gg/DNEfAmV9AS" target="_blank" style="display: inline-block; background-color: #5865F2; color: white; padding: 15px 30px; text-decoration: none; border-radius: 8px; font-size: 1.3rem; font-weight: bold; transition: all 0.3s;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" alt="Discord" width="24" height="24" style="vertical-align: middle; margin-right: 10px;" />
-    Join Discord Server
-  </a>
-</div>
-
-<br><
 
 ---
 
