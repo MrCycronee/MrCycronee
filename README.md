@@ -10,7 +10,7 @@
 
 <br>
 
-<p style="font-size: 1.1rem;">
+<p style="font-size: 1.1rem; margin-bottom: 20px;">
   <img src="https://img.shields.io/badge/FIVEM%20DEVELOPMENT%20LUA-FFFFFF?style=for-the-badge&logo=lua&logoColor=FFFFFF&labelColor=000000" height="32" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/DISCORD.JS%20BOTS-FFFFFF?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=000000" height="32" />
@@ -18,17 +18,15 @@
   <img src="https://img.shields.io/badge/BACKEND%20ARCHITECTURE-FFFFFF?style=for-the-badge&logo=serverless&logoColor=FFFFFF&labelColor=000000" height="32" />
 </p>
 
-<br>
+<div style="margin-bottom: 20px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Turning+FiveM+Ideas+Into+Code;Lua+Scripting+Expert;Dedicated+Roleplay+Developer" />
+  </a>
+</div>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Turning+FiveM+Ideas+Into+Code;Lua+Scripting+Expert;Dedicated+Roleplay+Developer" />
-</a>
-
-<br>
-
-<p style="font-size: 1.2rem;">
+<div style="margin-top: 10px;">
   <img src="https://komarev.com/ghpvc/?username=MrCycronee&label=PROFILE%20VIEWS&color=FFFFFF&style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000" height="32" />
-</p>
+</div>
 
 </div>
 
