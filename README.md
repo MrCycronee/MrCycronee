@@ -25,7 +25,7 @@
 </div>
 
 ---
-
+<div align="center">
 ## 📜 Über Mich
 
 Ich bin ein **dedizierter Softwareentwickler**, spezialisiert auf die **FiveM-Plattform und Lua-Scripting**. Mein Ziel ist es, performanten, sauberen Code zu liefern und komplexe Ideen in funktionale digitale Erlebnisse zu transformieren. Ich nutze meine breite Programmierbasis, um skalierbare Scripts und optimierte User Experiences zu entwickeln.
@@ -37,7 +37,7 @@ Ich bin ein **dedizierter Softwareentwickler**, spezialisiert auf die **FiveM-Pl
 > **Mein Credo:** Code muss nicht nur funktionieren, sondern auch wartbar, effizient und für das bestmögliche Roleplay-Erlebnis optimiert sein.
 
 ---
-
+<div align="center">
 ## 🛠️ Tech Stack & Werkzeuge
 
 <p align="center">
