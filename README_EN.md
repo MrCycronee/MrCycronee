@@ -1,8 +1,3 @@
-<!-- Wave Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=180&section=header" width="100%" />
-</div>
-
 <!-- Logo -->
 <div align="center">
   <img src="https://github.com/MrCycronee/images/blob/main/new_logo.png" width="420" alt="MrCycronee Logo" />
@@ -13,7 +8,7 @@
 <!-- Language Switch -->
 <div align="center">
   <a href="README.md">
-    <img src="https://img.shields.io/badge/🌐%20Zu%20Deutsch%20wechseln-FFFFFF?style=for-the-badge&labelColor=000000&color=000000" height="28" />
+    <img src="https://img.shields.io/badge/🌐%20Switch%20to%20German-FFFFFF?style=for-the-badge&labelColor=000000" height="28" />
   </a>
 </div>
 
@@ -39,9 +34,11 @@
 
 <br>
 
-<!-- Profile Views -->
+<!-- Profile Views + Followers -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrCycronee&style=for-the-badge&color=000000&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=MrCycronee&style=flat-square&color=ffffff&label=Profile+Views&labelColor=000000" height="22" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/MrCycronee?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=000000&color=ffffff&label=Followers" height="22" />
 </div>
 
 <br><br>
@@ -52,24 +49,15 @@
 
 <br>
 
-<table align="center">
-  <tr>
-    <td>
-
 ```lua
 local MrCycronee = {
   role       = "FiveM Developer",
   location   = "Germany 🇩🇪",
   focus      = { "Lua Scripting", "NUI", "Databases" },
   bots       = { "Discord.js", "Automation" },
-  principle  = "Code must not only function — " ..
-               "it must be maintainable, efficient and optimized."
+  principle  = "Code must not only function — it must be maintainable, efficient and optimized."
 }
 ```
-
-    </td>
-  </tr>
-</table>
 
 <br>
 
@@ -92,7 +80,7 @@ local MrCycronee = {
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,js,ts,py,cs,cpp,java,c,discord,github,vscode,cloudflare&perline=6&theme=dark" width="70%" />
+    <img src="https://skillicons.dev/icons?i=lua,js,ts,py,cs,cpp,java,c,discord,github,vscode,cloudflare&perline=6&theme=dark" width="50%" />
   </a>
 </div>
 
@@ -113,7 +101,7 @@ local MrCycronee = {
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MrCycronee&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=CCCCCC&dates=888888" width="55%" />
+  <img src="https://streak-stats.demolab.com?user=MrCycronee&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FF6600&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=888888" width="55%" />
 </div>
 
 <br><br>
@@ -126,7 +114,7 @@ local MrCycronee = {
 
 <div align="center">
   <a href="https://discord.gg/DNEfAmV9AS" target="_blank">
-    <img src="https://img.shields.io/badge/JOIN%20MY%20DISCORD%20COMMUNITY-FFFFFF?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=000000" height="48" width="420" />
+    <img src="https://img.shields.io/badge/JOIN%20DISCORD%20COMMUNITY-000000?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=5865F2" height="48" width="420" />
   </a>
 </div>
 
@@ -141,7 +129,6 @@ local MrCycronee = {
 
 <br>
 
-<!-- Footer Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=120&section=footer" width="100%" />
+  <sub style="color:#FFFFFF;">Last Updated: © 2026-03-14</sub>
 </div>
