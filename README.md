@@ -41,7 +41,7 @@
 
 <!-- Profile Views -->
 <div align="center">
-  <img src="https://img.shields.io/github/stars/MrCycronee?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000&color=000000" />
+  <img src="https://img.shields.io/github/stars/MrCycronee?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000&color=FFFFFF" />
 </div>
 
 <br><br>
