@@ -1,6 +1,6 @@
-<!-- Wave Header – mit Farbverlauf & Text -->
+<!-- Wave Header – animiert, schwarz -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:0D1117&height=200&section=header&text=MrCycronee&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FiveM%20Entwickler%20%7C%20Lua%20%7C%20Discord%20Bots&descAlignY=58&descAlign=50&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=MrCycronee&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=FiveM%20Entwickler%20%7C%20Lua%20%7C%20Discord%20Bots&descAlignY=58&descAlign=50&descSize=18" width="100%" />
 </div>
 
 <!-- Logo -->
@@ -13,7 +13,7 @@
 <!-- Sprache umschalten -->
 <div align="center">
   <a href="README_EN.md">
-    <img src="https://img.shields.io/badge/🌐%20Switch%20to%20English-1a1a2e?style=for-the-badge&labelColor=1a1a2e&color=1a1a2e" height="28" />
+    <img src="https://img.shields.io/badge/🌐%20Switch%20to%20English-FFFFFF?style=for-the-badge&labelColor=000000&color=000000" height="28" />
   </a>
 </div>
 
@@ -32,7 +32,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/FIVEM%20%7C%20LUA-FFFFFF?style=for-the-badge&logo=lua&logoColor=FFFFFF&labelColor=000000" height="30" />
   &nbsp;
-  <img src="https://img.shields.io/badge/DISCORD%20BOTS-FFFFFF?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=5865F2" height="30" />
+  <img src="https://img.shields.io/badge/DISCORD%20BOTS-FFFFFF?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=000000" height="30" />
   &nbsp;
   <img src="https://img.shields.io/badge/BACKEND%20ARCHITEKTUR-FFFFFF?style=for-the-badge&logo=serverless&logoColor=FFFFFF&labelColor=000000" height="30" />
 </div>
@@ -41,7 +41,7 @@
 
 <!-- Profile Views -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrCycronee&style=for-the-badge&color=1a1a2e&label=PROFIL+AUFRUFE" />
+  <img src="https://komarev.com/ghpvc/?username=MrCycronee&style=for-the-badge&color=000000&label=PROFIL+AUFRUFE" />
 </div>
 
 <br><br>
@@ -126,7 +126,7 @@ local MrCycronee = {
 
 <div align="center">
   <a href="https://discord.gg/DNEfAmV9AS" target="_blank">
-    <img src="https://img.shields.io/badge/DISCORD%20COMMUNITY%20BEITRETEN-FFFFFF?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=5865F2" height="48" width="420" />
+    <img src="https://img.shields.io/badge/DISCORD%20COMMUNITY%20BEITRETEN-FFFFFF?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=000000" height="48" width="420" />
   </a>
 </div>
 
@@ -149,5 +149,5 @@ local MrCycronee = {
 
 <!-- Footer Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:0D1117&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=120&section=footer" width="100%" />
 </div>
