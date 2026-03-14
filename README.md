@@ -92,7 +92,7 @@ local MrCycronee = {
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,js,ts,py,cs,cpp,java,c,discord,github,vscode,cloudflare&perline=6&theme=dark" width="70%" />
+    <img src="https://skillicons.dev/icons?i=lua,js,ts,py,cs,cpp,java,c,discord,github,vscode,cloudflare&perline=6&theme=dark" width="50%" />
   </a>
 </div>
 
