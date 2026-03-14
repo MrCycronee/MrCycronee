@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/MrCycronee/images/blob/main/logo.png" width="420" alt="MrCycronee Logo" />
+  <img src="https://github.com/MrCycronee/images/blob/main/github-logo.png" width="420" alt="MrCycronee Logo" />
 </div>
 <div align="center">
   <a href="README_EN.md">
