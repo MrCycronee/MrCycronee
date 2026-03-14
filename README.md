@@ -58,14 +58,10 @@ local MrCycronee = {
   standort    = "Deutschland 🇩🇪",
   schwerpunkt = { "Lua Scripting", "NUI", "Datenbanken" },
   bots        = { "Discord.js", "Automatisierung" },
-  prinzip     = "Code muss nicht nur funktionieren —" ..
-                " er muss wartbar, effizient und optimiert sein."
+  prinzip     = "Code muss nicht nur funktionieren — er muss wartbar, effizient und optimiert sein."
 }
 ```
 
-    </td>
-    
-  </tr>
 </table>
 
 <br>
