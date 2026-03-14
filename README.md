@@ -1,11 +1,10 @@
-<!-- Logo -->
 <div align="center">
   <img src="https://github.com/MrCycronee/images/blob/main/new_logo.png" width="420" alt="MrCycronee Logo" />
 </div>
 
 <br>
 
-<!-- Sprache umschalten -->
+
 <div align="center">
   <a href="README_EN.md">
     <img src="https://img.shields.io/badge/Switch%20to%20English%20🌐-FFFFFF?style=for-the-badge&labelColor=000000" height="28" />
@@ -14,7 +13,7 @@
 
 <br>
 
-<!-- Typing SVG -->
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&height=55&lines=FiveM+Entwickler+%7C+Lua+Scripting;Discord+Bot+Entwicklung;Skalierbare+%26+optimierte+Systeme;Immer+am+Bauen.+Immer+am+Lernen." />
@@ -34,11 +33,11 @@
 
 <br>
 
-<!-- Profile Views + Followers -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrCycronee&style=flat-square&color=ffffff&label=Profil+Aufrufe&labelColor=000000" height="22" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/MrCycronee?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=000000&color=ffffff&label=Follower" height="22" />
+
+<div style="margin-top: 10px;">
+  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-535-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000" height="32" />
+</div>
+
 </div>
 
 <br><br>
