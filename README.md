@@ -1,4 +1,4 @@
-<!-- Header – cleaner animierter Banner -->
+<!-- Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:1a1a1a&height=160&section=header&text=MrCycronee&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50&desc=FiveM%20Entwickler%20%7C%20Lua%20%7C%20Discord%20Bots&descAlignY=72&descAlign=50&descSize=17" width="100%" />
 </div>
@@ -13,7 +13,7 @@
 <!-- Sprache umschalten -->
 <div align="center">
   <a href="README_EN.md">
-    <img src="https://img.shields.io/badge/000000-Switch%20to%20English%20🌐-FFFFFF?style=for-the-badge&labelColor=000000&color=FFFFFF&logoColor=FFFFFF" height="28" />
+    <img src="https://img.shields.io/badge/Switch%20to%20English%20🌐-FFFFFF?style=for-the-badge&labelColor=000000" height="28" />
   </a>
 </div>
 
@@ -30,18 +30,18 @@
 
 <!-- Badges -->
 <div align="center">
-  <img src="https://img.shields.io/badge/FIVEM%20%7C%20LUA-FFFFFF?style=for-the-badge&logo=lua&logoColor=000000&labelColor=000000&color=FFFFFF" height="30" />
+  <img src="https://img.shields.io/badge/FIVEM%20%7C%20LUA-FFFFFF?style=for-the-badge&logo=lua&logoColor=00007C&labelColor=000000" height="30" />
   &nbsp;
-  <img src="https://img.shields.io/badge/DISCORD%20BOTS-FFFFFF?style=for-the-badge&logo=discord&logoColor=000000&labelColor=000000&color=FFFFFF" height="30" />
+  <img src="https://img.shields.io/badge/DISCORD%20BOTS-FFFFFF?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=000000" height="30" />
   &nbsp;
-  <img src="https://img.shields.io/badge/BACKEND%20ARCHITEKTUR-FFFFFF?style=for-the-badge&logo=serverless&logoColor=000000&labelColor=000000&color=FFFFFF" height="30" />
+  <img src="https://img.shields.io/badge/BACKEND%20ARCHITEKTUR-FFFFFF?style=for-the-badge&logo=serverless&logoColor=FFFFFF&labelColor=000000" height="30" />
 </div>
 
 <br>
 
 <!-- Profile Views -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrCycronee&style=for-the-badge&color=FFFFFF&label=PROFIL+AUFRUFE&labelColor=000000" />
+  <img src="https://komarev.com/ghpvc/?username=MrCycronee&style=for-the-badge&color=000000&label=PROFIL+AUFRUFE&labelColor=000000" />
 </div>
 
 <br><br>
@@ -126,7 +126,7 @@ local MrCycronee = {
 
 <div align="center">
   <a href="https://discord.gg/DNEfAmV9AS" target="_blank">
-    <img src="https://img.shields.io/badge/DISCORD%20COMMUNITY%20BEITRETEN-000000?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=5865F2&color=000000" height="48" width="420" />
+    <img src="https://img.shields.io/badge/DISCORD%20COMMUNITY%20BEITRETEN-000000?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=5865F2" height="48" width="420" />
   </a>
 </div>
 
