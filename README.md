@@ -1,8 +1,3 @@
-<!-- Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:1a1a1a&height=160&section=header&text=MrCycronee&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50&desc=FiveM%20Entwickler%20%7C%20Lua%20%7C%20Discord%20Bots&descAlignY=72&descAlign=50&descSize=17" width="100%" />
-</div>
-
 <!-- Logo -->
 <div align="center">
   <img src="https://github.com/MrCycronee/images/blob/main/new_logo.png" width="420" alt="MrCycronee Logo" />
@@ -41,11 +36,11 @@
 
 <!-- Profile Views + Followers -->
 <div align="center">
-  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-535-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000" height="22" />
+  <img src="https://komarev.com/ghpvc/?username=MrCycronee&style=flat-square&color=ffffff&label=Profil+Aufrufe&labelColor=000000" height="22" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/MrCycronee?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=000000&color=ffffff&label=Follower" height="22" />
 </div>
-<img src="
+
 <br><br>
 
 ---
@@ -69,7 +64,7 @@ local MrCycronee = {
 }
 ```
 
-  </td>
+    </td>
   </tr>
 </table>
 
@@ -115,7 +110,7 @@ local MrCycronee = {
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MrCycronee&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFA500&currStreakLabel=FFFFFF&sideLabels=CCCCCC&dates=888888" width="55%" />
+  <img src="https://streak-stats.demolab.com?user=MrCycronee&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FF6600&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=888888" width="55%" />
 </div>
 
 <br><br>
@@ -145,11 +140,4 @@ local MrCycronee = {
 
 <div align="center">
   <sub style="color:#FFFFFF;">Last Updated: © März 2026</sub>
-</div>
-
-<br>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a1a,100:000000&height=80&section=footer" width="100%" />
 </div>
