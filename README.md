@@ -34,7 +34,7 @@
 <br>
 
 
-<div style="margin-top: 10px;">
+<div align="center">
   <img src="https://img.shields.io/badge/PROFILE%20VIEWS-535-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000" height="32" />
 </div>
 
