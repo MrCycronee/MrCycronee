@@ -41,7 +41,7 @@
 
 <!-- Profile Views -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrCycronee&style=for-the-badge&color=000000&label=PROFIL+AUFRUFE&labelColor=000000" />
+  https://img.shields.io/github/stars/MrCycronee?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000&color=000000
 </div>
 
 <br><br>
