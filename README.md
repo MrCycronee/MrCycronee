@@ -115,7 +115,7 @@ local MrCycronee = {
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MrCycronee&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FF0000&currStreakLabel=FFFFFF&sideLabels=CCCCCC&dates=888888" width="55%" />
+  <img src="https://streak-stats.demolab.com?user=MrCycronee&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFA500&currStreakLabel=FFFFFF&sideLabels=CCCCCC&dates=888888" width="55%" />
 </div>
 
 <br><br>
