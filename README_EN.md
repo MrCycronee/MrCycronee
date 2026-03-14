@@ -1,11 +1,10 @@
-<!-- Logo -->
 <div align="center">
   <img src="https://github.com/MrCycronee/images/blob/main/new_logo.png" width="420" alt="MrCycronee Logo" />
 </div>
 
 <br>
 
-<!-- Language Switch -->
+
 <div align="center">
   <a href="README.md">
     <img src="https://img.shields.io/badge/🌐%20Switch%20to%20German-FFFFFF?style=for-the-badge&labelColor=000000" height="28" />
@@ -14,7 +13,7 @@
 
 <br>
 
-<!-- Typing SVG -->
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&height=55&lines=FiveM+Developer+%7C+Lua+Scripting;Discord+Bot+Development;Scalable+%26+Optimized+Systems;Always+Building.+Always+Learning." />
@@ -23,7 +22,7 @@
 
 <br>
 
-<!-- Badges -->
+
 <div align="center">
   <img src="https://img.shields.io/badge/FIVEM%20%7C%20LUA-FFFFFF?style=for-the-badge&logo=lua&logoColor=FFFFFF&labelColor=000000" height="30" />
   &nbsp;
@@ -34,11 +33,8 @@
 
 <br>
 
-<!-- Profile Views + Followers -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrCycronee&style=flat-square&color=ffffff&label=Profile+Views&labelColor=000000" height="22" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/MrCycronee?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=000000&color=ffffff&label=Followers" height="22" />
+  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-535-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000" height="32" />
 </div>
 
 <br><br>
