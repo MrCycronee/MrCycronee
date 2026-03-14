@@ -41,11 +41,11 @@
 
 <!-- Profile Views + Followers -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrCycronee&style=flat-square&color=ffffff&label=Profil+Aufrufe&labelColor=ffffff" height="22" />
+  <img src="https://komarev.com/ghpvc/?username=MrCycronee&label=Profil+Aufrufe&color=5865F2&style=for-the-badge" height="22" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/MrCycronee?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=000000&color=ffffff&label=Follower" height="22" />
 </div>
-
+<img src="
 <br><br>
 
 ---
