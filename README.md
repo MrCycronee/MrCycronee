@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/MrCycronee/images/blob/main/new_logo.png" width="420" alt="MrCycronee Logo" />
+  <img src="https://github.com/MrCycronee/images/blob/main/New_logo.png" width="420" alt="MrCycronee Logo" />
 </div>
 
 <br>
