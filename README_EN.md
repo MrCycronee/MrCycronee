@@ -3,7 +3,7 @@
 </div>
 <div align="center">
   <a href="README_EN.md">
-    <img src="https://img.shields.io/badge/Switch%20to%20English%20🌐-FFFFFF?style=for-the-badge&labelColor=000000" height="28" />
+    <img src="https://img.shields.io/badge/Switch%20to%20Deutsch%20🌐-FFFFFF?style=for-the-badge&labelColor=000000" height="28" />
   </a>
 </div>
 
