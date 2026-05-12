@@ -1,8 +1,5 @@
 <div align="center">
-  <img src="https://github.com/MrCycronee/images/blob/main/github-logo.png" width="420" alt="MrCycronee Logo" />
-</div>
-<div align="center">
-  <a href="README_EN.md">
+  <a href="README.md">
     <img src="https://img.shields.io/badge/Switch%20to%20Deutsch%20🌐-FFFFFF?style=for-the-badge&labelColor=000000" height="28" />
   </a>
 </div>
