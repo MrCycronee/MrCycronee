@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="assets/banner.svg" width="100%" alt="Scripts, die einfach laufen. – FiveM Developer aus Deutschland" />
-
   <img src="https://raw.githubusercontent.com/MrCycronee/images/main/github-logo.png" width="280" alt="MrCycronee" />
 
   <br />
@@ -112,6 +110,4 @@ Mir ist wichtig, dass Sachen im Spielalltag zuverlässig laufen und der Code auc
   </a>
   <br /><br />
   <sub>© 2026 MrCycronee</sub>
-  <br /><br />
-  <img src="assets/footer.svg" width="100%" alt="" />
 </div>
