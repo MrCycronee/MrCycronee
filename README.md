@@ -9,7 +9,7 @@
   <p>
     <img src="https://img.shields.io/badge/FiveM-161b22?style=for-the-badge&logo=fivem&logoColor=F40552" alt="FiveM" />
     <img src="https://img.shields.io/badge/Lua-161b22?style=for-the-badge&logo=lua&logoColor=58A6FF" alt="Lua" />
-    <img src="https://img.shields.io/badge/ESX-161b22?style=for-the-badge&logoColor=white" alt="ESX" />
+    <img src="https://img.shields.io/badge/ESX-161b22?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyOTcgMjkxIj48cGF0aCBmaWxsPSIjRkY5OTAwIiBkPSJNMTAyIDUgMTQ4IDcwIDE5NSAwSDI5N0wxOTggMTQ3IDI5NyAyOTFIMTkwTDE0OCAyMjUgMTAyIDI5MUgwTDk1IDE0NyA1MCA4MFoiLz48L3N2Zz4=" alt="ESX" />
     <img src="https://img.shields.io/badge/Discord-161b22?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
   </p>
 
@@ -22,11 +22,17 @@
 
 <br />
 
-### 👋 Hey, ich bin MrCycronee
-
-FiveM-Entwickler aus Deutschland. Ich schreibe hauptsächlich Lua und baue Scripts, NUI-Oberflächen und Discord-Bots.
-
-Mir ist wichtig, dass Sachen im Spielalltag zuverlässig laufen und der Code auch in einem halben Jahr noch lesbar ist.
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="900">
+      <h2>Hey, ich bin MrCycrone <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="34" alt="" /></h2>
+      <p><b>FiveM-Entwickler aus Deutschland</b><br />Ich schreibe hauptsächlich Lua und baue Scripts, NUI-Oberflächen und Discord-Bots.</p>
+      <p><sub>Mir ist wichtig, dass Sachen im Spielalltag zuverlässig laufen und der Code auch in einem halben Jahr noch lesbar ist.</sub></p>
+    </td>
+  </tr>
+</table>
+</div>
 
 <br />
 
