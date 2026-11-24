@@ -1,5 +1,7 @@
 <div align="center">
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,55:1c2430,100:8b9bb0&section=header&text=Scripts,%20die%20einfach%20laufen.&fontSize=34&fontColor=e6edf3&fontAlignY=38&desc=FiveM%20%C2%B7%20Lua%20%C2%B7%20NUI%20%C2%B7%20Discord%20%C2%B7%20Backend&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Scripts, die einfach laufen. FiveM · Lua · NUI · Discord · Backend" />
+
   <img src="https://raw.githubusercontent.com/MrCycronee/images/main/github-logo.png" width="280" alt="MrCycronee" />
 
   <br />
@@ -82,10 +84,9 @@ Mir ist wichtig, dass Sachen im Spielalltag zuverlässig laufen und der Code auc
     <img src="https://lanyard.cnrad.dev/api/571389054751604737?theme=dark&bg=0d1117&borderRadius=10px&animated=true" alt="Discord-Status von MrCycronee" />
   </a>
   <br /><br />
-  <!-- Discord-Abzeichen: discord-badges.png ins Repo MrCycronee/images hochladen, dann einkommentieren
-  <img src="https://raw.githubusercontent.com/MrCycronee/images/main/discord-badges.png" width="219" alt="Meine Discord-Abzeichen" />
+  <!-- Discord-Abzeichen -->
+  <img src="https://raw.githubusercontent.com/mezotv/discord-badges/main/assets/hype-squad-balance.svg" height="28" alt="HypeSquad Balance" title="HypeSquad Balance" />
   <br /><br />
-  -->
   <a href="https://discord.gg/DNEfAmV9AS">
     <img src="https://img.shields.io/badge/Discord--Community_beitreten-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord-Community beitreten" />
   </a>
@@ -93,12 +94,10 @@ Mir ist wichtig, dass Sachen im Spielalltag zuverlässig laufen und der Code auc
 
 <br />
 
----
-
 <div align="center">
-  <a href="https://github.com/MrCycronee?tab=repositories">Projekte ansehen</a>
-  &nbsp;·&nbsp;
-  <a href="https://discord.gg/DNEfAmV9AS">Discord-Community</a>
+  <a href="https://github.com/MrCycronee?tab=repositories">Alle Projekte ansehen →</a>
   <br /><br />
   <sub>© 2026 MrCycronee</sub>
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:8b9bb0,45:1c2430,100:0d1117&section=footer" width="100%" alt="" />
 </div>
