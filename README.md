@@ -1,7 +1,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/MrCycronee/images/main/github-logo.png" width="300" alt="MrCycronee" />
 
-  <p><a href="README_EN.md">English version</a></p>
+  <p>
+    <a href="README_EN.md">English version</a>
+  </p>
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&pause=2200&color=F0F6FC&center=true&vCenter=true&width=620&height=42&lines=FiveM+Developer+%C2%B7+Lua+Scripting;Discord+Bots+%C2%B7+Backend+Systems" alt="FiveM Developer · Lua Scripting · Discord Bots · Backend Systems" />
 
@@ -35,13 +37,13 @@ Ich entwickle FiveM-Resources und Discord-Bots. Mein Fokus liegt auf Lua, NUI, D
 ## Discord
 
 <div align="center">
-  <a href="https://discord.gg/DNEfAmV9AS">
-    <img src="https://img.shields.io/badge/%40mrcycr0ne-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord: mrcycr0ne" />
+  <a href="https://discord.com/users/571389054751604737">
+    <img src="https://lanyard.cnrad.dev/api/571389054751604737" alt="Discord-Status von MrCycronee" />
   </a>
 </div>
 
 <p align="center">
-  <sub>Nitro seit 2025 · <a href="https://discord.gg/DNEfAmV9AS">Discord-Community beitreten</a></sub>
+  <sub><a href="https://discord.gg/DNEfAmV9AS">Discord-Community</a></sub>
 </p>
 
 ## GitHub
