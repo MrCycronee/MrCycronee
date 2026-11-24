@@ -81,10 +81,6 @@ Mir ist wichtig, dass Sachen im Spielalltag zuverlässig laufen und der Code auc
 ### 💬 Discord
 
 <div align="center">
-  <a href="https://discord.com/users/571389054751604737">
-    <img src="https://lanyard.cnrad.dev/api/571389054751604737?theme=dark&bg=0d1117&borderRadius=10px&animated=true" alt="Discord-Status von MrCycronee" />
-  </a>
-  <br /><br />
   <!-- Discord-Abzeichen -->
   <img src="https://raw.githubusercontent.com/mezotv/discord-badges/main/assets/subscriptions/badges/platinum.png" height="28" alt="Nitro Platinum" title="Nitro Platinum" />
   <img src="https://raw.githubusercontent.com/mezotv/discord-badges/main/assets/boosts/discord-boost-3.svg" height="28" alt="Server-Boost" title="Server-Boost" />
@@ -96,6 +92,10 @@ Mir ist wichtig, dass Sachen im Spielalltag zuverlässig laufen und der Code auc
   <img src="https://raw.githubusercontent.com/mezotv/discord-badges/main/assets/quest.png" height="28" alt="Quest" title="Quest" />
   <img src="https://raw.githubusercontent.com/mezotv/discord-badges/main/assets/last-meadow.png" height="28" alt="Last Meadow" title="Last Meadow" />
   <img src="https://raw.githubusercontent.com/mezotv/discord-badges/main/assets/orb.svg" height="28" alt="Orbs" title="Orbs" />
+  <br />
+  <a href="https://discord.com/users/571389054751604737">
+    <img src="https://lanyard.cnrad.dev/api/571389054751604737?theme=dark&bg=0d1117&borderRadius=10px&animated=true&hideBadges=true" alt="Discord-Status von MrCycronee" />
+  </a>
   <br /><br />
   <a href="https://discord.gg/DNEfAmV9AS">
     <img src="https://img.shields.io/badge/Discord--Community_beitreten-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord-Community beitreten" />
