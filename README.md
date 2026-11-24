@@ -1,53 +1,74 @@
 <div align="center">
-  <img src="https://github.com/MrCycronee/images/blob/main/github-logo.png" width="340" alt="MrCycronee" />
+  <img src="https://raw.githubusercontent.com/MrCycronee/images/main/github-logo.png" width="360" alt="MrCycronee" />
 
-  <p><strong>FiveM · Lua · Discord</strong></p>
-  <p>Ich entwickle Scripts und kleine Tools für die Dinge, die mich interessieren.</p>
+  <p>
+    <a href="README_EN.md">
+      <img src="https://img.shields.io/badge/English-0d1117?style=flat-square&labelColor=161b22&color=0d1117" alt="Switch to English" />
+    </a>
+  </p>
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&pause=2200&color=F0F6FC&center=true&vCenter=true&width=620&height=42&lines=FiveM+Developer+%C2%B7+Lua+Scripting;Discord+Bots+%C2%B7+Backend+Systems" alt="FiveM Developer · Lua Scripting · Discord Bots · Backend Systems" />
+
+  <p>
+    <img src="https://img.shields.io/badge/FiveM-0d1117?style=flat-square&logo=lua&logoColor=ffffff&labelColor=161b22&color=0d1117" alt="FiveM" />
+    <img src="https://img.shields.io/badge/Lua-0d1117?style=flat-square&logo=lua&logoColor=ffffff&labelColor=161b22&color=0d1117" alt="Lua" />
+    <img src="https://img.shields.io/badge/Discord-0d1117?style=flat-square&logo=discord&logoColor=ffffff&labelColor=161b22&color=0d1117" alt="Discord" />
+  </p>
 </div>
 
 ---
 
 ## Über mich
 
-Ich arbeite hauptsächlich an FiveM-Projekten mit Lua, NUI und Datenbanken. Nebenbei baue ich Discord-Bots und probiere neue Ideen aus.
+Ich entwickle FiveM-Resources und Discord-Bots. Mein Fokus liegt auf Lua, NUI, Datenbanken und kleinen Systemen, die im Alltag einfach zuverlässig laufen sollen.
 
-Mir ist wichtig, dass ein Script nicht nur funktioniert, sondern auch verständlich bleibt, wenn ich später daran weiterarbeite.
+~~~lua
+local MrCycronee = {
+  role    = "FiveM Developer",
+  basedIn = "Germany",
+  focus   = { "Lua", "NUI", "Databases", "Discord.js" },
+  motto   = "Keep it clean. Keep it maintainable."
+}
+~~~
 
-## Schwerpunkte
+## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=lua,js,ts,discord,github,vscode&perline=6&theme=dark" alt="Lua, JavaScript, TypeScript, Discord, GitHub und Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=lua,js,ts,py,cs,cpp,discord,github,vscode,cloudflare&perline=10&theme=dark" alt="Lua, JavaScript, TypeScript, Python, C Sharp, C Plus Plus, Discord, GitHub, VS Code und Cloudflare" />
 </p>
 
-- **FiveM:** Lua-Scripts und NUI
-- **Discord:** Bots und Automatisierung
-- **Backend:** Datenbanken und zuverlässige Abläufe
+| Bereich | Woran ich arbeite |
+| :-- | :-- |
+| FiveM | Lua-Resources, NUI und Gameplay-Systeme |
+| Discord | Bots, Automatisierung und Server-Tools |
+| Backend | Datenbanken, APIs und stabile Abläufe |
 
 ## Discord
 
-<table>
-  <tr>
-    <td width="76" align="center">🎮</td>
-    <td>
-      <strong>MrCycrone</strong><br />
-      <code>mrcycr0ne</code><br />
-      Nitro-Mitglied seit einem Jahr
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="discord-badges.png" width="219" alt="Meine Discord-Abzeichen" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://discord.gg/DNEfAmV9AS">
+    <img src="https://img.shields.io/badge/mrcycr0ne-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: mrcycr0ne" />
+  </a>
+  <img src="https://img.shields.io/badge/Nitro_seit_2025-0d1117?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord Nitro seit 2025" />
+</div>
 
-[Zur Discord-Community](https://discord.gg/DNEfAmV9AS)
+<p align="center">
+  <sub>Discord: <code>mrcycr0ne</code> · Nitro seit 2025</sub>
+</p>
 
-## Projekte
+## GitHub
 
-- [ego_shooting](https://github.com/MrCycronee/ego_shooting) — ein First-Person-Script für ESX
-- [Alle Repositories ansehen](https://github.com/MrCycronee?tab=repositories)
+<div align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=MrCycronee&show_icons=true&hide_border=true&bg_color=00000000&title_color=f0f6fc&text_color=8b949e&icon_color=58a6ff&rank_icon=github" alt="GitHub-Statistiken von MrCycronee" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrCycronee&layout=compact&hide_border=true&bg_color=00000000&title_color=f0f6fc&text_color=8b949e&langs_count=6" alt="Häufig verwendete Sprachen" />
+</div>
 
 ---
 
-<p align="center"><sub>Zuletzt aktualisiert: 24. November 2026</sub></p>
+<p align="center">
+  <a href="https://github.com/MrCycronee?tab=repositories">Projekte ansehen</a>
+  &nbsp;·&nbsp;
+  <a href="https://discord.gg/DNEfAmV9AS">Discord-Community</a>
+  <br /><br />
+  <sub>© 2026 MrCycronee</sub>
+</p>
