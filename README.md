@@ -83,7 +83,10 @@
 
 <div align="center">
   <!-- Discord-Abzeichen -->
-  <img src="https://raw.githubusercontent.com/mezotv/discord-badges/main/assets/subscriptions/badges/platinum.png" height="28" alt="Nitro Platinum" title="Nitro Platinum" />
+  <br />
+  <a href="https://discord.com/users/571389054751604737">
+    <img src="https://lanyard.cnrad.dev/api/571389054751604737?theme=dark&bg=0d1117&borderRadius=10px&animated=true&hideBadges=true" alt="Discord-Status von MrCycronee" />
+      <img src="https://raw.githubusercontent.com/mezotv/discord-badges/main/assets/subscriptions/badges/platinum.png" height="28" alt="Nitro Platinum" title="Nitro Platinum" />
   <img src="https://raw.githubusercontent.com/mezotv/discord-badges/main/assets/boosts/discord-boost-3.svg" height="28" alt="Server-Boost" title="Server-Boost" />
   <img src="https://raw.githubusercontent.com/mezotv/discord-badges/main/assets/streaming/sensation.svg" height="28" alt="Streaming · Sensation" title="Streaming · Sensation" />
   <img src="https://raw.githubusercontent.com/mezotv/discord-badges/main/assets/game-variety/maverick.svg" height="28" alt="Game Variety · Maverick" title="Game Variety · Maverick" />
@@ -93,9 +96,6 @@
   <img src="https://raw.githubusercontent.com/mezotv/discord-badges/main/assets/quest.png" height="28" alt="Quest" title="Quest" />
   <img src="https://raw.githubusercontent.com/mezotv/discord-badges/main/assets/last-meadow.png" height="28" alt="Last Meadow" title="Last Meadow" />
   <img src="https://raw.githubusercontent.com/mezotv/discord-badges/main/assets/orb.svg" height="28" alt="Orbs" title="Orbs" />
-  <br />
-  <a href="https://discord.com/users/571389054751604737">
-    <img src="https://lanyard.cnrad.dev/api/571389054751604737?theme=dark&bg=0d1117&borderRadius=10px&animated=true&hideBadges=true" alt="Discord-Status von MrCycronee" />
   </a>
   <br /><br />
   <a href="https://discord.gg/DNEfAmV9AS">
