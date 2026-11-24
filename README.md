@@ -23,15 +23,10 @@
 <br />
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="900">
-      <h2>Hey, ich bin MrCycrone <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="34" alt="" /></h2>
-      <p><b>FiveM-Entwickler aus Deutschland</b><br />Ich schreibe hauptsächlich Lua und baue Scripts, NUI-Oberflächen und Discord-Bots.</p>
-      <p><sub>Mir ist wichtig, dass Sachen im Spielalltag zuverlässig laufen und der Code auch in einem halben Jahr noch lesbar ist.</sub></p>
-    </td>
-  </tr>
-</table>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="48" alt="" />
+  <h3>Hey, ich bin MrCycrone</h3>
+  <p><b>FiveM-Entwickler aus Deutschland</b><br />Ich schreibe hauptsächlich Lua und baue Scripts, NUI-Oberflächen und Discord-Bots.</p>
+  <p><sub>Mir ist wichtig, dass Sachen im Spielalltag zuverlässig laufen und der Code auch in einem halben Jahr noch lesbar ist.</sub></p>
 </div>
 
 <br />
@@ -57,7 +52,7 @@
 
 <br />
 
-### ⚙️ Stack
+### 🧰 Womit ich arbeite
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=lua,js,ts,py,cs,cpp,html,css,mysql,discord,github,vscode,cloudflare&perline=13&theme=dark" alt="Lua, JavaScript, TypeScript, Python, C#, C++, HTML, CSS, MySQL, Discord, GitHub, VS Code, Cloudflare" />
