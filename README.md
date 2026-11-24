@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,55:1c2430,100:8b9bb0&section=header&text=Scripts,%20die%20einfach%20laufen.&fontSize=34&fontColor=e6edf3&fontAlignY=38&desc=FiveM%20%C2%B7%20Lua%20%C2%B7%20NUI%20%C2%B7%20Discord%20%C2%B7%20Backend&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Scripts, die einfach laufen. FiveM · Lua · NUI · Discord · Backend" />
+  <img src="assets/banner.svg" width="100%" alt="Scripts, die einfach laufen. – FiveM Developer aus Deutschland" />
 
   <img src="https://raw.githubusercontent.com/MrCycronee/images/main/github-logo.png" width="280" alt="MrCycronee" />
 
@@ -15,7 +15,10 @@
     <img src="https://img.shields.io/badge/Discord-161b22?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
   </p>
 
-  <sub>🇩🇪 Deutsch · <a href="README_EN.md">🇬🇧 English</a></sub>
+  <p>
+    <img src="https://img.shields.io/badge/DE-Deutsch-a9c4e8?style=for-the-badge&labelColor=1b2a41" alt="Deutsch (aktiv)" />
+    <a href="README_EN.md"><img src="https://img.shields.io/badge/EN-English-161b22?style=for-the-badge&labelColor=0d1117" alt="English" /></a>
+  </p>
 
 </div>
 
@@ -104,9 +107,11 @@ Mir ist wichtig, dass Sachen im Spielalltag zuverlässig laufen und der Code auc
 <br />
 
 <div align="center">
-  <a href="https://github.com/MrCycronee?tab=repositories">Alle Projekte ansehen →</a>
+  <a href="https://github.com/MrCycronee?tab=repositories">
+    <img src="https://img.shields.io/badge/Alle_Projekte_ansehen-1b2a41?style=for-the-badge&logo=github&logoColor=white" alt="Alle Projekte ansehen" />
+  </a>
   <br /><br />
   <sub>© 2026 MrCycronee</sub>
   <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:8b9bb0,45:1c2430,100:0d1117&section=footer" width="100%" alt="" />
+  <img src="assets/footer.svg" width="100%" alt="" />
 </div>
