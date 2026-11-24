@@ -1,11 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MrCycronee/images/main/github-logo.png" width="360" alt="MrCycronee" />
+  <img src="https://raw.githubusercontent.com/MrCycronee/images/main/github-logo.png" width="300" alt="MrCycronee" />
 
-  <p>
-    <a href="README_EN.md">
-      <img src="https://img.shields.io/badge/English-0d1117?style=flat-square&labelColor=161b22&color=0d1117" alt="Switch to English" />
-    </a>
-  </p>
+  <p><a href="README_EN.md">English version</a></p>
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&pause=2200&color=F0F6FC&center=true&vCenter=true&width=620&height=42&lines=FiveM+Developer+%C2%B7+Lua+Scripting;Discord+Bots+%C2%B7+Backend+Systems" alt="FiveM Developer · Lua Scripting · Discord Bots · Backend Systems" />
 
@@ -22,38 +18,30 @@
 
 Ich entwickle FiveM-Resources und Discord-Bots. Mein Fokus liegt auf Lua, NUI, Datenbanken und kleinen Systemen, die im Alltag einfach zuverlässig laufen sollen.
 
-~~~lua
-local MrCycronee = {
-  role    = "FiveM Developer",
-  basedIn = "Germany",
-  focus   = { "Lua", "NUI", "Databases", "Discord.js" },
-  motto   = "Keep it clean. Keep it maintainable."
-}
-~~~
+## Woran ich arbeite
+
+<p>
+  <strong>FiveM</strong> · Lua-Resources, NUI und Gameplay-Systeme<br />
+  <strong>Discord</strong> · Bots, Automatisierung und Server-Tools<br />
+  <strong>Backend</strong> · Datenbanken, APIs und stabile Abläufe
+</p>
 
 ## Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=lua,js,ts,py,cs,cpp,discord,github,vscode,cloudflare&perline=10&theme=dark" alt="Lua, JavaScript, TypeScript, Python, C Sharp, C Plus Plus, Discord, GitHub, VS Code und Cloudflare" />
 </p>
-
-| Bereich | Woran ich arbeite |
-| :-- | :-- |
-| FiveM | Lua-Resources, NUI und Gameplay-Systeme |
-| Discord | Bots, Automatisierung und Server-Tools |
-| Backend | Datenbanken, APIs und stabile Abläufe |
 
 ## Discord
 
 <div align="center">
   <a href="https://discord.gg/DNEfAmV9AS">
-    <img src="https://img.shields.io/badge/mrcycr0ne-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: mrcycr0ne" />
+    <img src="https://img.shields.io/badge/%40mrcycr0ne-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord: mrcycr0ne" />
   </a>
-  <img src="https://img.shields.io/badge/Nitro_seit_2025-0d1117?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord Nitro seit 2025" />
 </div>
 
 <p align="center">
-  <sub>Discord: <code>mrcycr0ne</code> · Nitro seit 2025</sub>
+  <sub>Nitro seit 2025 · <a href="https://discord.gg/DNEfAmV9AS">Discord-Community beitreten</a></sub>
 </p>
 
 ## GitHub
