@@ -1,38 +1,53 @@
 <div align="center">
-  <img src="https://github.com/MrCycronee/images/blob/main/github-logo.png" width="360" alt="MrCycronee" />
+  <img src="https://github.com/MrCycronee/images/blob/main/github-logo.png" width="340" alt="MrCycronee" />
 
-  <p>
-    <a href="README_EN.md">English</a> · <strong>Deutsch</strong>
-  </p>
-
-  <p>
-    FiveM & Lua · Discord bots · Backend systems
-  </p>
+  <p><strong>FiveM · Lua · Discord</strong></p>
+  <p>Ich entwickle Scripts und kleine Tools für die Dinge, die mich interessieren.</p>
 </div>
 
 ---
 
 ## Über mich
 
-Ich entwickle FiveM-Scripts und Discord-Bots. Dabei beschäftige ich mich vor allem mit Lua, NUI, Datenbanken und Automatisierung.
+Ich arbeite hauptsächlich an FiveM-Projekten mit Lua, NUI und Datenbanken. Nebenbei baue ich Discord-Bots und probiere neue Ideen aus.
 
-Mir ist wichtig, dass Code nicht nur läuft, sondern auch später noch verständlich und wartbar ist.
+Mir ist wichtig, dass ein Script nicht nur funktioniert, sondern auch verständlich bleibt, wenn ich später daran weiterarbeite.
 
-## Womit ich arbeite
-
-<p>
-  <img src="https://skillicons.dev/icons?i=lua,js,ts,py,cs,cpp,java,c,discord,github,vscode,cloudflare&perline=6&theme=dark" alt="Technologien und Tools" />
-</p>
-
-## GitHub
+## Schwerpunkte
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=MrCycronee&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="150" alt="GitHub-Statistiken" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrCycronee&layout=compact&hide_border=true&theme=github_dark&langs_count=6" height="150" alt="Häufig verwendete Sprachen" />
+  <img src="https://skillicons.dev/icons?i=lua,js,ts,discord,github,vscode&perline=6&theme=dark" alt="Lua, JavaScript, TypeScript, Discord, GitHub und Visual Studio Code" />
 </p>
 
-## Kontakt
+- **FiveM:** Lua-Scripts und NUI
+- **Discord:** Bots und Automatisierung
+- **Backend:** Datenbanken und zuverlässige Abläufe
 
-[Discord-Community](https://discord.gg/DNEfAmV9AS) · [Meine Repositories](https://github.com/MrCycronee?tab=repositories)
+## Discord
 
-<sub>Zuletzt aktualisiert: 24. November 2026</sub>
+<table>
+  <tr>
+    <td width="76" align="center">🎮</td>
+    <td>
+      <strong>MrCycrone</strong><br />
+      <code>mrcycr0ne</code><br />
+      Nitro-Mitglied seit einem Jahr
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="discord-badges.png" width="219" alt="Meine Discord-Abzeichen" />
+    </td>
+  </tr>
+</table>
+
+[Zur Discord-Community](https://discord.gg/DNEfAmV9AS)
+
+## Projekte
+
+- [ego_shooting](https://github.com/MrCycronee/ego_shooting) — ein First-Person-Script für ESX
+- [Alle Repositories ansehen](https://github.com/MrCycronee?tab=repositories)
+
+---
+
+<p align="center"><sub>Zuletzt aktualisiert: 24. November 2026</sub></p>
