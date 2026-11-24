@@ -85,7 +85,16 @@ Mir ist wichtig, dass Sachen im Spielalltag zuverlässig laufen und der Code auc
   </a>
   <br /><br />
   <!-- Discord-Abzeichen -->
+  <img src="https://raw.githubusercontent.com/mezotv/discord-badges/main/assets/subscriptions/badges/platinum.png" height="28" alt="Nitro Platinum" title="Nitro Platinum" />
+  <img src="https://raw.githubusercontent.com/mezotv/discord-badges/main/assets/boosts/discord-boost-3.svg" height="28" alt="Server-Boost" title="Server-Boost" />
+  <img src="https://raw.githubusercontent.com/mezotv/discord-badges/main/assets/streaming/sensation.svg" height="28" alt="Streaming · Sensation" title="Streaming · Sensation" />
+  <img src="https://raw.githubusercontent.com/mezotv/discord-badges/main/assets/game-variety/maverick.svg" height="28" alt="Game Variety · Maverick" title="Game Variety · Maverick" />
+  <img src="https://raw.githubusercontent.com/mezotv/discord-badges/main/assets/game-time/ironclad.svg" height="28" alt="Game Time · Ironclad" title="Game Time · Ironclad" />
+  <img src="https://raw.githubusercontent.com/mezotv/discord-badges/main/assets/account-age/sequoia.svg" height="28" alt="Account Age · Sequoia" title="Account Age · Sequoia" />
   <img src="https://raw.githubusercontent.com/mezotv/discord-badges/main/assets/hype-squad-balance.svg" height="28" alt="HypeSquad Balance" title="HypeSquad Balance" />
+  <img src="https://raw.githubusercontent.com/mezotv/discord-badges/main/assets/quest.png" height="28" alt="Quest" title="Quest" />
+  <img src="https://raw.githubusercontent.com/mezotv/discord-badges/main/assets/last-meadow.png" height="28" alt="Last Meadow" title="Last Meadow" />
+  <img src="https://raw.githubusercontent.com/mezotv/discord-badges/main/assets/orb.svg" height="28" alt="Orbs" title="Orbs" />
   <br /><br />
   <a href="https://discord.gg/DNEfAmV9AS">
     <img src="https://img.shields.io/badge/Discord--Community_beitreten-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord-Community beitreten" />
